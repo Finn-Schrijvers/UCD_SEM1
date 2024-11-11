@@ -1,7 +1,7 @@
 # Projecttitel
 *Omschrijving van je concept in 1 zin* 
 
-*Projectteam: Naam 1; Naam 2*
+*Projectteam: Jento Van Laethem; Finn Schrijvers
 
 Datum
 

@@ -3,7 +3,7 @@
 
 *Projectteam: Jento Van Laethem; Finn Schrijvers
 
-Datum
+Datum  11/11/2024
 
 ## Samenvatting
 Max 200 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker beantwoordt:

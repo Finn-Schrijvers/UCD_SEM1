@@ -1,5 +1,5 @@
-# Projecttitel
-*Omschrijving van je concept in 1 zin* 
+# Slimme Medicatievoorbereiding
+Een scan- en projectiesysteem stroomlijnt de medicatievoorbereiding door medicijnzakjes te scannen, correcte plaatsing in compartimenten visueel aan te duiden, en de processen digitaal te loggen voor foutloze en efficiënte ondersteuning in de zorg.
 
 *Projectteam: Jento Van Laethem; Finn Schrijvers
 
@@ -13,6 +13,12 @@ Max 200 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker 
 - Wat is jouw oplossing?
 - Hoe lost jouw oplossing het probleem op?
 - Hero sketch/render/image
+
+Het probleem is dat medicatievoorbereiding in woonzorgcentra tijdrovend en foutgevoelig is, wat de werkdruk voor verpleegkundigen verhoogt en de kans op medicatiefouten vergroot. Om dit te onderzoeken, is er een gebruikersonderzoek uitgevoerd (interviews met zorgverleners en tests met eenvoudige prototypes). Dit leidde tot inzichten in de knelpunten van het huidige proces en gebruikersbehoeften.  
+
+**(Nog te herzien en uit te breiden) De oplossing is een systeem met een handscanner en plafondprojector. De handscanner leest medicijnzakjes en koppelt deze aan een digitale database met patiëntinformatie. De projector markeert visueel het juiste vakje in de medicatiebak waar het zakje moet worden geplaatst. Dit systeem logt automatisch welke medicatie is voorbereid en geeft directe feedback.  
+
+Deze oplossing maakt de voorbereiding efficiënter door foutreductie en tijdwinst te bieden. Het voorkomt dat verpleegkundigen handmatig informatie moeten controleren en zorgt voor een duidelijk, visueel gestuurde workflow. Het digitale logboek versterkt de controle en traceerbaarheid, wat bijdraagt aan veilige medicatietoediening en een lagere werkdruk.**
 
 ## Introductie
 Max 300 woorden.

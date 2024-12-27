@@ -32,85 +32,18 @@ Het doel van dit project is het ontwikkelen van een verbetering die de efficiën
   
 ## Methodologie
 Max 400 woorden. Beschrijf je methodologie (enkel SEM1, zie les methodologie). Maak hierbij gebruik van een afbeelding om je tijdlijn weer te geven. Op deze tijdlijn moeten minimaal een tijdsincatie te zien zijn, moeten fasen te zien zijn en moeten activiteiten te zien zijn.
+
+Als eerst werd de opdracht verkend: Wat is het doel van de opdracht? Is het gestelde probleem ook daadwerkelijk een probleem, en vooral, kan dit probleem gekoppeld worden aan bestaande oplossingen? Deze opdracht startte met het verkennen van de designchallange Werkbaar Werk in de Zorg met de bijhorende noden en behoeften.[1]
+
+In de ontdekkingsfase ontdekken we wat gebruikers, die zich al langere tijd in de probleemruimte bevinden, van het gestelde probleem vinden en welke oplossingen zij in gedachten hebben? Het probleem werd alvast sterk bevestigd in enkele contextual inquiries en ook uit een focusgroep kwamen al enkele interessante opmerkingen. Door te kijken naar wat vandaag de dag al op de markt is (benchmarking) en te overleggen met medestudenten konden we in de oplossingsruimte al het een en ander gaan ontdekken. Met dit onderzoek als basis startten we als team met het uitwerken van een concept binnenin de oplossingsruimte.
+
+In de definitiefase verdiepen we ons in het probleem, met fascinatie voor het probleem en niet voor onze eigen oplossing maken we eerste prototypes en trekken we al snel naar de eerste gebruikers. Met hun feedback passen we aan en gaan we verder. Dat is zowat de hoofdstrategie van ons iteratief ontwerpproces. Via een storytelling en gebruikerstesten krijgen we meer inzicht in de gebruiker. Wat zijn de noden van onze gebruikers en hoe vertaalt zich dat in onze oplossing? Na elke test en elk onderzoek stellen we de nodige design requirements op die doorheen het hele proces van tel zijn.
+
+In de definitiefase concentreren we ons op het testen in een realistische context. We zetten nog sterker in op een user centered design. Ctrl-Wheely wordt nu steeds concreter, toch blijven we objectief toekijken naar de inzichten van de gebruikers en mensen daarbuiten. Na een interessant industry consult stuitten we op een nieuw concept dat ons product naar een hoger en gebruiksvriendelijker niveau kan tillen. Niet ideaal op het einde van het proces, doch blijven we ervan overtuigd dat het gebruiksgemak en de veiligheid van de gebruiker voorop staat. We kozen voor een ommezwaai in de conceptkeuze. Na drie boeiende testfases met elk hun eigen focuspunt komen we tot een finaal concept en een productvideo.
+
+Het ontwerpproces en de daarbij horende eindconclusies zijn te lezen in dit verslag. De ontwerpmethodologie van het proces is vastgelegd in deze visuele tijdlijn.
+
 ![image](https://github.com/user-attachments/assets/5ac7e321-7b09-46eb-8382-fa2c81e23f1e)
-
-
-#### **Doel van de methodologie:**  
-  Beschrijf wat je met deze methodologie wilt bereiken. 
-  - Wat zijn de belangrijkste onderzoeksvragen? 
-  - Welke aspecten wil je testen (bijv. efficiëntie, foutreductie, gebruiksvriendelijkheid)?  
-  - Hoe dragen de verschillende fasen van dit project bij aan het beantwoorden van deze vragen?
-
----
-
-#### **1. Discovery Fase**
-- **Beschrijving:**  
-  Deze fase richtte zich op het begrijpen van de problemen en behoeften van de gebruikers.  
-  - Hoe heb je gebruikersonderzoek uitgevoerd? (bijv. interviews, observaties)  
-  - Welke inzichten heb je hieruit gehaald?  
-  - Welke knelpunten of behoeften kwamen naar voren uit de interviews met verpleegkundigen?  
-
-- **Vragen om in te vullen:**  
-  - Hoeveel respondenten heb je geïnterviewd?  
-  - Welke vragen zijn tijdens het interview gesteld?  
-  - Welke methoden heb je gebruikt om data te analyseren (bijv. transcriptanalyse, thematische codering)?  
-
----
-
-#### **2. Prototyping en Testing – Eerste Iteratie**
-- **Beschrijving:**  
-  Deze fase richtte zich op het ontwikkelen en testen van de eerste groep prototypes.  
-  - Wat was het doel van deze prototypes? (bijv. haalbaarheid, gebruiksvriendelijkheid, integratie in de werkomgeving)  
-  - Welke aspecten zijn getest? (bijv. bedieningstype, fysieke grootte)  
-  - Welke resultaten leverden deze tests op?  
-
-- **Vragen om in te vullen:**  
-  - Hoeveel prototypes zijn er getest?  
-  - Hoe zijn de prototypes getest (bijv. gesimuleerde workflows, observaties in het WZC)?  
-  - Wat waren de belangrijkste resultaten per test?  
-  - Welke inzichten hebben geleid tot de pivot?  
-
----
-
-#### **3. Prototyping en Testing – Tweede Iteratie**
-- **Beschrijving:**  
-  Deze fase richtte zich op het ontwerpen van prototypes die de verpleegkundige ondersteunen in plaats van taken volledig te automatiseren.  
-  - Wat was het doel van deze iteratie? (bijv. verbeteren van samenwerking, minimaliseren van werkdruk)  
-  - Welke aspecten zijn aangepast ten opzichte van de eerste prototypes?  
-
-- **Vragen om in te vullen:**  
-  - Hoe is dit nieuwe concept getest?  
-  - Welke metrics zijn gemeten (bijv. tijdsbesparing, foutreductie, feedback van gebruikers)?  
-  - Welke feedback is verzameld van verpleegkundigen?  
-
----
-
-#### **4. Analyse en Conclusies**
-- **Beschrijving:**  
-  Deze fase omvatte het analyseren van de resultaten van beide iteraties en het trekken van conclusies.  
-  - Hoe zijn de gegevens geanalyseerd? (bijv. kwantitatieve analyse, kwalitatieve feedback)  
-  - Wat waren de belangrijkste conclusies uit de tests?  
-
-- **Vragen om in te vullen:**  
-  - Welke verbeteringen zijn aangetoond door de iteraties?  
-  - Hoe hebben gebruikers gereageerd op de oplossing?  
-  - Wat zijn de resterende vragen of uitdagingen?  
-
----
-
-#### **5. Tijdlijn**
-Maak een overzichtelijke tijdlijn met de volgende elementen:  
-- **Fasen:** Discovery, Eerste Iteratie, Tweede Iteratie, Analyse.  
-- **Tijdsaanduidingen:** Vermeld de periode per fase.  
-- **Activiteiten:** Benoem specifieke activiteiten per fase (bijv. interviews, prototyping, testen).  
-
----
-
-#### **6. Conclusie van de Methodologie**
-- **Beschrijving:**  
-  Vat samen hoe de methodologie heeft bijgedragen aan het verbeteren van het concept.  
-  - In hoeverre zijn de doelen van efficiëntie, foutreductie en gebruiksvriendelijkheid bereikt?  
-  - Hoe goed sluit het eindresultaat aan bij de behoeften van de gebruikers?  
 
 ---
 

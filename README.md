@@ -25,7 +25,13 @@ In woonzorgcentra (WZC) is medicatieverdeling een tijdrovende en foutgevoelige t
 
 De voorbereiding van medicatie is een cruciaal maar tijdrovend onderdeel van het zorgproces in WZC. Elk pilletje komt in een individueel verpakt zakje binnen en moet handmatig verdeeld worden in de medicatiekar. Dit vereist het raadplegen van verschillende formulieren, visuele controle en het handmatig toevoegen van extra medicatie. Na deze stappen kan de verpleging met deze medicatiekar, op het juiste tijdsstip en bij de juiste persoon de medicatie toedienen. Dit proces is niet alleen arbeidsintensief, maar ook foutgevoelig, wat leidt tot onnodige vertragingen en frustratie bij het verplegend personeel. Het risico op fouten heeft bovendien grote gevolgen voor de veiligheid en het welzijn van de bewoners.
 
-Het doel van dit project is het ontwikkelen van een verbetering die de efficiëntie en nauwkeurigheid van **medicatievoorbereiding** verbetert, zonder dat er een compleet nieuw systeem geïmplementeerd hoeft te worden. De oplossing moet betaalbaar, eenvoudig te integreren, en gebruiksvriendelijk zijn.  
+Het doel van dit project is het ontwikkelen van een verbetering die de efficiëntie en nauwkeurigheid van **medicatievoorbereiding** verbetert, zonder dat er een compleet nieuw systeem geïmplementeerd hoeft te worden. De oplossing moet betaalbaar, snel, eenvoudig te integreren, en gebruiksvriendelijk zijn. 
+Randvoorwaarden:
+
+- betaalbaar
+- snel
+- eenvoudig te integreren
+- gebruiksvtiendelijk
 
   
 ## Methodologie
@@ -44,8 +50,72 @@ De ontwerpmethodologie van dit proces is vastgelegd in onderstaande visuele tijd
 ---
 
 
-## Discovery
-Max. 1000 woorden
+## Discovery (N totaal =13)
+Tijdens de ontdekkingsfase richten we ons op het verkrijgen van een duidelijk inzicht in de probleemruimte en het identificeren van kansen. In het begin van deze fase wordt de probleemruimte bewust breed gehouden. Zo wordt het algemene proces van medicatieverdeling in WZC's grondig onderzocht, waarna we ons kunnen toespitsen op een specifiek aspect binnen dit proces.  
+
+De kansen die we identificeren ontstaan uit zowel gebruikersinterviews als benchmarking. Met andere woorden, we brengen het probleem waarop we ons richten helder in kaart en onderzoeken het grondig om een sterke basis te leggen voor het verdere ontwerpproces.
+
+### Doelstellingen
+Een helder geformuleerde _"how might we"_ bekomen.
+
+### Materiaal & methoden
+- _contextual inquiries_
+- gebruikersinterview
+- benchmarking
+
+### Gebruikersinterview (N=3)
+Voordat er al gebrainstormed wordt over het maken van ontwerpen, wordt eerst de probleemruimte verder verfijnd door in contact te komen met verpleegkundigen binnen WZC. Deze personen staan dag dagelijks in de probleemruimte dus zij kunnen ons het best aangeven welk aspect binnen de medicatieverdeling het best meer aandacht verdient voor optimalisatie. Alvorens het uitvoeren van de intervieuws werd er een interview protocol werd opgesteld (zie bijlage). Dit protocol beschrijft het doel van het interview, zijnde wat we te weten willen komen van de gebruiker:
+
+- Hoe werkt het huidige medicatieverdelingsproces?
+- Welk proces neemt het meeste tijd in beslag?
+- Welke handelingen lopen soms fout?
+- Wat zijn de meest frustrerende taken en waarom?
+- Wat zijn voor jou de belangrijkste vereisten bij het implementeren van nieuwe technologie binnen het medicatieverdelingsproces?
+  
+#### Resultaten
+Alle interviews zijn van grote meerwaarde binnen dit onderzoek. Concreet zijn dit de belangrijkste antwoorden die verder geanalyseerd zullen worden voor in het vervolg van dit project:
+
+> "De medicatie wordt besteld bij de apotheker, deze komt vaak de dag van bestelling nog binnen. Elk pilletje is afzonderlijk verpakt in een zakje, al deze zakjes zijn opgerold tot 1 medicijnrol (="baxter") ***voor alle patiënten tesamen***. Vervolgens moet alle medicatie worden voorbereid, dit omvat het handmatig verdelen van de zakjes in de juiste desbetreffende bakjes in de medicijnkar, hierbij moet ook alles gelogd worden in een digitaal document. Vaak is er ook extra medicatie die niet verpakt is in de zakjes (siroopp, poeder,...) voor deze medicatie is er wel een zakje voorzien met alle info op, maar zit er niets in. Hierbij wordt telkens het zakje in het bakje gelegd, samen met de nodige extra medicatie.
+
+Vervolgens kan men op de nodige tijdsstippen van de dag met de kar naar de bewoner rijden om de medicatie toe te dienen. Hierbij wordt er een laatste check gedaan of het om de juiste medicatie gaat."
+> 
+> "Dit proces is een lange en soms frustrerende taak omdat er af en toe fouten gebeuren. Het is dan ook snel gebeurt dat je iets fout leest of vergeet aan te vinken."
+
+> "Wat in mijn ogen cruciaal is, is het regelmatig contact bij het toedienen van de medicatie tussen bewoners en zorgverleners, wat (vaak onbewust) essentieel is voor het mentale welzijn van de bewoners. Tegelijkertijd biedt dit proces een moment om de toestand van de bewoners te controleren."
+
+
+
+Een ander interessant aspect dat aangehaald werd was het veilig versturen van sms’en achter het stuur. Een alternatief op spraakbediening wanneer deze niet optimaal zou werken is het kiezen tussen vaste berichten die je via ons concept zou kunnen lezen op het HUD. Scrollen en selecteren gebeurt dan met de _dial_.
+
+<p align="center">
+  <img width="60%" src="/images/focus group.png">
+  <img width="38%" src="/images/focus group tafel.jpg">
+</p>
+
+#### Benchmarking (N=10)
+Om de markt te analyseren maken we gebruik van benchmarking, heel wat designkeuzes zijn vaak al succesvol opgelost door anderen. Je hoeft niet alles opnieuw te onderzoeken, maar door bestaande oplossingen aandachtig te bestuderen kunnen we focussen op meer belangrijke onbekende factoren.
+
+Het probleem werd opgesplitst in twee fundamentele deelproblemen. Hoe kunnen we informatie weergeven en hoe kunnen we bepaalde functies bedienen? Voor beide werden de voor- en nadelen op een rijtje gezet. Daarna werd alles samengegoten in een overzichtelijke *problem-solution* matrix.
+
+<p align="center">
+  <img src="/images/benchmarking visualisation.jpg" width="49%"/>
+  <img src="/images/benchmarking controls.jpg" width="49%"/>
+</p>
+
+<img src="/images/benchmarking problem solution matrix.jpg"/>
+
+### Conclusies & implicaties
+De afleiding tijdens het rijden wordt niet veroorzaakt door het touchscreen zelf, maar door het gebrek aan tactiele feedback bij het bedienen van het scherm. Je moet visueel verifiëren wat je gedaan hebt en of je het juist gedaan hebt. Verder genieten knoppen op het stuur en bediening via het touchscreen de voorkeur van gebruikers, gevolgd door fysieke knoppen en stembediening.
+
+HUD's die in de voorruit of op de onderste zwarte band van de ruit geplaatst worden tonen informatie zonder dat de bestuurder zijn ogen van de baan hoeft te halen, wat de veiligheid bevordert. 3D-schermen en hologrammen bieden een goede ervaring en een grote aanpasbaarheid, maar zijn over het algemeen kostbaarder en complexer. Augmented reality-schermen combineren digitale informatie met de echte wereld, wat de navigatie- en veiligheidskenmerken verbetert. Traditionele schermen kunnen ondanks dat ze kosteneffectief en vertrouwd zijn de aandacht van de weg brengen. Fysieke knoppen en knoppen op het stuur geven prioriteit aan tastbare feedback en minimale afleiding, terwijl aanraakschermen en spraakbesturing veelzijdigheid bieden, maar mogelijk ten koste gaan van de veiligheid. Context, compatibiliteit en de leercurve zijn ook belangrijke factoren om in overweging te nemen.
+
+**Hoe kunnen we een _dial_ en een HUD gebruiken om afgeleide bestuurders gefocust te houden op de weg, terwijl ze interageren met het dashboard?**
+
+> [!IMPORTANT]
+> Design Requirements:
+> - D3.1 Het touchscreen laat toe de functies en hun bijhorende posities onderling te wijzigen.
+> - D1.1 Het product laat toe functies te bedienen zonder dat de ogen van de baan afwijken.
+> - D2.1 De _dial_ geeft haptische feedback bij het bedienen van de functies.
 ### Doestellingen
 Wat wilde je bereiken?
 ### Materiaal & methoden

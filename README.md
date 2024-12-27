@@ -84,43 +84,27 @@ Max. 500 woorden
 
 ## Bijlagen
 - Discovery
-  - Contextual inquiries
-    - [protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/korneel_verraes_ugent_be/EbsFMVmtLS9PsmruQO7G164BsZ5_j9Fu6Rl854Qa3qWmYQ?e=QRkYSC)
-    - [report](https://ugentbe-my.sharepoint.com/:b:/g/personal/korneel_verraes_ugent_be/Eas4YG_7SpxApFeq5h0TQsYBoihKIDYJINAHUwYjbGnJOA?e=orFrf5)
-  - Focus groups
-    - [protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/korneel_verraes_ugent_be/EWh6baFsMMRGoy3ka52hPG4BzbzurMG2UVsQyipgFQgmfw?e=gE4W8u)
-    - [report](https://ugentbe-my.sharepoint.com/:b:/g/personal/korneel_verraes_ugent_be/EcaQ1q157GFNu4digImXqBoBSc3dnoYHoLg65hIQWaBKaA?e=4kcSHy)
+  - Intervieuw
+    - [protocol]
+    - [report]
   - Benchmarking
-    - [protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/korneel_verraes_ugent_be/EXawcWpXBVpEt_lIMpMp_2ABLn8YT56Gweo287PCzCVebw?e=ohLtQk)
-    - [report](https://ugentbe-my.sharepoint.com/:b:/g/personal/korneel_verraes_ugent_be/ES47CYFbTF1EnaaEx6L9F90BNoMAPfkbhsjLT51bKq1DlA?e=dMLCQ5)
+    - [protocol]
+    - [report]
 - Definition
-  - Dial
-    - [protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/korneel_verraes_ugent_be/EXA8tLux91JJgyoZDhd7l8EBiHgo0lbct7zmwVrcxtyVpQ?e=EAw8CV)
-    - [report](https://ugentbe-my.sharepoint.com/:b:/g/personal/korneel_verraes_ugent_be/ES0ZpXk9lqNEglcTKWC2yTYBzBOITMq5B5F91GWfasvyiA?e=wBfrfh)
-  - User interface
-    - [protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/korneel_verraes_ugent_be/EZTgPm-nd4pIsmm8usEYeBUBz1gfDapTBei-XWnFm_MZ7g?e=bN2sFI)
-    - [report](https://ugentbe-my.sharepoint.com/:b:/g/personal/korneel_verraes_ugent_be/EeAsWolB5e9JmBZqcdCANsUBhkX-JtqDsruhD6Gw2MzLAQ?e=icrMtT)
-- Develop 1
-  - [protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/korneel_verraes_ugent_be/Ed5Cw6uYuAREtow-HiDa7TQBSTC7YIpYGRGnOxcfrB0F6w?e=EO4oEH)
-  - [report](https://ugentbe-my.sharepoint.com/:b:/g/personal/korneel_verraes_ugent_be/ETyGm0r8TDZHsSQlNxfRxxwBqzdG42B0hlqhnKxVS78oCg?e=2yokI9)
-- Develop 2
-  - Expert review
-    - [protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/korneel_verraes_ugent_be/ETqsrg_xHrBOkA1brbJ3t2IBkXsYxzCnGieAo1CWaPYekw?e=dK0oaT)
-    - [report](https://ugentbe-my.sharepoint.com/:b:/g/personal/korneel_verraes_ugent_be/EfVC145y3KxDvudC-U4TsT8BUycW9wZWifMW9NHYxgdx_A?e=c0tfIG)
-  - Usability test
-    - [protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/korneel_verraes_ugent_be/EV5OZfwtGPBFrt3uwZXcVNcBihPvPzmzFxCDzjzQltVrZA?e=9NACFB)
-    - [report](https://ugentbe-my.sharepoint.com/:b:/g/personal/korneel_verraes_ugent_be/EeRQD4A97TdJoxIuUXeTQNYBUtt4XM00AD7CwpS1mvPMRg?e=ToBzBb)
-- Develop 3
-  - [protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/korneel_verraes_ugent_be/EXClvOz8INdJgKvF5UcQUhIBYpvQ8Hyk5CacbJ5YMebfbQ?e=SSEOhn)
-  - [report](https://ugentbe-my.sharepoint.com/:b:/g/personal/korneel_verraes_ugent_be/EdHE8VL7fB5EkfIlp2sKCNsBZ6HWYYmyrerdYaaHGuqJ-A?e=hXYgPn)
-
+  - Testing
+    - Wave 1
+          - [protocol]
+          - [report]
+    - Wave 2
+          - [protocol]
+          - [report]
+    - Wave 3
+          - [protocol]
+          - [report]
+- Develop
+    - to be continued...
+    - 
 ## Bronnen
-[^1]: Beeckman, H. (2021, 11 maart). *Aanraakschermen in je auto bedienen drie keer gevaarlijker dan rijden onder invloed: “Europese regels nodig”.* VRTNWS. https://www.vrt.be/vrtnws/nl/2021/03/11/aanraakschermen-in-je-auto-bedienen-drie-keer-gevaarlijker-dan-r/
-[^2]: TRL (2019, 15 april). *Distracted Driving Evidence Has Fallen Behind the Latest Technological Changes.* TRL. https://www.trl.co.uk/news/distracted-driving-evidence-has-fallen-behind-the-latest-technological-changes
-[^3]: Rotmans, M. (2005). *DINBelg 2005* [Dataset]. https://www.dinbelg.be/DINBelg%202005%20antropometrie%20tabel.PDF
-
-
-## Bronnen
-Voeg je volledige bibliografie toe van bronnen naarwaar je verwees.
-
-## Bijlagen
+[^1]:
+[^2]:
+[^3]:

@@ -6,12 +6,7 @@ Een scan- en projectiesysteem dat de medicatievoorbereiding vereenvoudigt door v
 Datum  17/01/2025
 
 ## Samenvatting
-(Max 200 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker beantwoordt:
 
-- Wat is het probleem?
-- Hoe heb je dit onderzocht?
-- Wat is jouw oplossing?
-- Hoe lost jouw oplossing het probleem op?
 - Hero sketch/render/image)
 
 Het probleem is dat medicatievoorbereiding in woonzorgcentra tijdrovend en foutgevoelig is, wat de werkdruk voor verpleegkundigen verhoogt en de kans op medicatiefouten vergroot. Om dit te onderzoeken, is er een gebruikersonderzoek uitgevoerd (interviews met zorgverleners en tests met primitieve prototypes). Dit leidde tot inzichten in de knelpunten van het huidige proces en gebruikersbehoeften.  
@@ -21,7 +16,6 @@ De oplossing is een systeem met een handscanner en plafondprojector. De handscan
 Deze oplossing maakt de medicatievoorbereiding efficiënter door het proces eenvoudiger en gebruiksvriendelijker te maken, wat leidt tot tijdsbesparing en een vermindering van fouten. Het voorkomt dat verpleegkundigen handmatig informatie moeten controleren en zorgt voor een duidelijk, visueel gestuurde workflow. Het digitale logboek versterkt de controle en traceerbaarheid, wat bijdraagt aan een veilige medicatietoediening.
 
 ## Introductie
-(Max 300 woorden. Kader je project. Introduceer het probleem en jouw doelstellingen (inclusief boundary conditions). Maak gebruik van bronverwijzingen (zie APA stijl).)
 
 In woonzorgcentra (WZC) is medicatieverdeling een tijdrovende en foutgevoelige taak die direct bijdraagt aan de hoge werkdruk van verpleegkundigen. Onderzoek toont aan dat bijna **49% van de zorgverleners kampt met een hoge werkdruk**, mede veroorzaakt door personeelstekorten en de toenemende vergrijzing [Hoge werkdruk in rusthuizen | Beswic. (n.d.). https://beswic.be/nl/blog/hoge-werkdruk-rusthuizen]. In Vlaanderen voldoet bovendien **21% van de instellingen niet aan de wettelijke personeelsnormen**, wat de druk op bestaande medewerkers verder verhoogt. 
 
@@ -31,17 +25,16 @@ Het doel van dit project is het ontwikkelen van een verbetering die de efficiën
 
   
 ## Methodologie
-Max 400 woorden. Beschrijf je methodologie (enkel SEM1, zie les methodologie). Maak hierbij gebruik van een afbeelding om je tijdlijn weer te geven. Op deze tijdlijn moeten minimaal een tijdsincatie te zien zijn, moeten fasen te zien zijn en moeten activiteiten te zien zijn.
 
-Als eerst werd de opdracht verkend: Wat is het doel van de opdracht? Is het gestelde probleem ook daadwerkelijk een probleem, en vooral, kan dit probleem gekoppeld worden aan bestaande oplossingen? Deze opdracht startte met het verkennen van de designchallange Werkbaar Werk in de Zorg met de bijhorende noden en behoeften.[1]
+Als eerst werd de opdracht verkend: Wat is het doel van de opdracht? Is het gestelde probleem ook daadwerkelijk een probleem, en vooral, kan dit probleem gekoppeld worden aan bestaande oplossingen? Deze opdracht startte met het verkennen van de designchallange Werkbaar Werk in de Zorg met de bijhorende noden en behoeften.[Noden- en behoeftenanalyse van personeel in de zorg- en welzijnssectoren en maatwerkbedrijven. (z.j.). Ongepubliceerd document]
 
-In de ontdekkingsfase ontdekken we wat gebruikers, die zich al langere tijd in de probleemruimte bevinden, van het gestelde probleem vinden en welke oplossingen zij in gedachten hebben? Het probleem werd alvast sterk bevestigd in enkele contextual inquiries en ook uit een focusgroep kwamen al enkele interessante opmerkingen. Door te kijken naar wat vandaag de dag al op de markt is (benchmarking) en te overleggen met medestudenten konden we in de oplossingsruimte al het een en ander gaan ontdekken. Met dit onderzoek als basis startten we als team met het uitwerken van een concept binnenin de oplossingsruimte.
+Tijdens de ontdekkingsfase onderzochten we hoe gebruikers, die dagelijks met het probleem te maken hebben, het probleem ervaren en welke oplossingen zij zelf voor ogen hebben. De user interviews bevestigden het probleem duidelijk. Uit benchmarking blijkt dat er al diverse oplossingen bestaan om de medicatievoorbereiding te vereenvoudigen. Echter, deze oplossingen hebben vaak belangrijke tekortkomingen, zoals hoge kosten, complexiteit of een gebrek aan gebruiksvriendelijkheid. Door deze zwakke punten te analyseren, konden we kansen identificeren om verbeteringen aan te brengen. Op basis van deze inzichten kan een eerste concept ontwikkeld worden dat zich binnen de oplossingsruimte bevindt.
 
-In de definitiefase verdiepen we ons in het probleem, met fascinatie voor het probleem en niet voor onze eigen oplossing maken we eerste prototypes en trekken we al snel naar de eerste gebruikers. Met hun feedback passen we aan en gaan we verder. Dat is zowat de hoofdstrategie van ons iteratief ontwerpproces. Via een storytelling en gebruikerstesten krijgen we meer inzicht in de gebruiker. Wat zijn de noden van onze gebruikers en hoe vertaalt zich dat in onze oplossing? Na elke test en elk onderzoek stellen we de nodige design requirements op die doorheen het hele proces van tel zijn.
+In de definitiefase verdiepen we ons grondig in het probleem, volgens het principe "fall in love with the problem, not the solution." Tijdens deze fase worden de eerste prototypes ontwikkeld en testen we zo snel mogelijk of het concept levensvatbaar is voor verdere verfijning. Dit gebeurt in een vroege concepttest met verpleegkundigen in een WZC. De ontvangen feedback gebruiken we om het ontwerp aan te passen en verder te verbeteren.  
 
-In de definitiefase concentreren we ons op het testen in een realistische context. We zetten nog sterker in op een user centered design. Ctrl-Wheely wordt nu steeds concreter, toch blijven we objectief toekijken naar de inzichten van de gebruikers en mensen daarbuiten. Na een interessant industry consult stuitten we op een nieuw concept dat ons product naar een hoger en gebruiksvriendelijker niveau kan tillen. Niet ideaal op het einde van het proces, doch blijven we ervan overtuigd dat het gebruiksgemak en de veiligheid van de gebruiker voorop staat. We kozen voor een ommezwaai in de conceptkeuze. Na drie boeiende testfases met elk hun eigen focuspunt komen we tot een finaal concept en een productvideo.
+Deze iteratieve aanpak vormt de kern van ons ontwerpproces, waarbij we in volgende fasen steeds opnieuw testen met nieuwe of verfijnde prototypes. Tegelijkertijd bieden deze tests waardevolle inzichten in de gebruiker, waardoor we hun behoeften nog beter kunnen begrijpen en specificeren. Na elke test en elk onderzoek stellen we design requirements op die als leidraad dienen gedurende het hele proces.
 
-Het ontwerpproces en de daarbij horende eindconclusies zijn te lezen in dit verslag. De ontwerpmethodologie van het proces is vastgelegd in deze visuele tijdlijn.
+De ontwerpmethodologie van dit proces is vastgelegd in onderstaande visuele tijdlijn.
 
 ![image](https://github.com/user-attachments/assets/5ac7e321-7b09-46eb-8382-fa2c81e23f1e)
 

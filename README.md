@@ -66,43 +66,77 @@ Een helder geformuleerde _"how might we"_ bekomen.
 ### Gebruikersinterview (N=3)
 Voordat er al gebrainstormed wordt over het maken van ontwerpen, wordt eerst de probleemruimte verder verfijnd door in contact te komen met verpleegkundigen binnen WZC. Deze personen staan dag dagelijks in de probleemruimte dus zij kunnen ons het best aangeven welk aspect binnen de medicatieverdeling het best meer aandacht verdient voor optimalisatie. Alvorens het uitvoeren van de intervieuws werd er een interview protocol werd opgesteld (zie bijlage). Dit protocol beschrijft het doel van het interview, zijnde wat we te weten willen komen van de gebruiker:
 
-- Hoe werkt het huidige medicatieverdelingsproces?
-- Welk proces neemt het meeste tijd in beslag?
-- Welke handelingen lopen soms fout?
-- Wat zijn de meest frustrerende taken en waarom?
-- Wat zijn voor jou de belangrijkste vereisten bij het implementeren van nieuwe technologie binnen het medicatieverdelingsproces?
+(1) Hoe werkt het huidige medicatieverdelingsproces?
+(2) Welk proces neemt het meeste tijd in beslag?
+(3) Welke handelingen lopen hierbij soms fout?
+(4) Wat zijn de meest frustrerende taken en waarom?
+(5) Wat zijn voor jou de belangrijkste vereisten bij het implementeren van nieuwe technologie binnen het medicatieverdelingsproces?
   
 #### Resultaten
-Alle interviews zijn van grote meerwaarde binnen dit onderzoek. Concreet zijn dit de belangrijkste antwoorden die verder geanalyseerd zullen worden voor in het vervolg van dit project:
+Alle interviews zijn van grote meerwaarde binnen dit onderzoek. De belangrijkste antwoorden worden hieronder weergegeven, deze worden verder geanalyseerd zullen worden voor in het vervolg van dit project:
 
-> "De medicatie wordt besteld bij de apotheker, deze komt vaak de dag van bestelling nog binnen. Elk pilletje is afzonderlijk verpakt in een zakje, al deze zakjes zijn opgerold tot 1 medicijnrol (="baxter") ***voor alle patiënten tesamen***. Vervolgens moet alle medicatie worden voorbereid, dit omvat het handmatig verdelen van de zakjes in de juiste desbetreffende bakjes in de medicijnkar, hierbij moet ook alles gelogd worden in een digitaal document. Vaak is er ook extra medicatie die niet verpakt is in de zakjes (siroopp, poeder,...) voor deze medicatie is er wel een zakje voorzien met alle info op, maar zit er niets in. Hierbij wordt telkens het zakje in het bakje gelegd, samen met de nodige extra medicatie.
+(1) > De medicatie wordt besteld bij de apotheek en vaak nog dezelfde dag geleverd. De medicatie arriveert in een medicijnrol (ook wel "baxter" genoemd), waarbij elk pilletje afzonderlijk is verpakt in een zakje. Deze rol bevat de medicatie voor alle patiënten samen, zoals weergegeven in de onderstaande afbeelding.  
 
-Vervolgens kan men op de nodige tijdsstippen van de dag met de kar naar de bewoner rijden om de medicatie toe te dienen. Hierbij wordt er een laatste check gedaan of het om de juiste medicatie gaat."
-> 
-> "Dit proces is een lange en soms frustrerende taak omdat er af en toe fouten gebeuren. Het is dan ook snel gebeurt dat je iets fout leest of vergeet aan te vinken."
+Vervolgens begint de voorbereiding: de zakjes worden handmatig verdeeld over de juiste bakjes in de medicijnkar. Tijdens dit proces moet alles nauwkeurig worden gelogd in een digitaal systeem. Daarnaast is er vaak extra medicatie, zoals siropen of poeders, die niet in de zakjes is verpakt. Voor deze extra medicatie is er wel een zakje voorzien met alle benodigde informatie, maar zonder inhoud. Het lege zakje wordt samen met de extra medicatie in het juiste bakje geplaatst.  
 
-> "Wat in mijn ogen cruciaal is, is het regelmatig contact bij het toedienen van de medicatie tussen bewoners en zorgverleners, wat (vaak onbewust) essentieel is voor het mentale welzijn van de bewoners. Tegelijkertijd biedt dit proces een moment om de toestand van de bewoners te controleren."
+Op de geplande tijdstippen wordt de medicijnkar naar de bewoners gereden om de medicatie toe te dienen. Tijdens de toediening wordt een laatste controle uitgevoerd met behulp van een tablet.
 
+![image](https://github.com/user-attachments/assets/c7c58312-9b7a-4bdd-bf65-a3381dbf65bc)
 
+(2) > "Het is voornamelijk het voorbereiden van de medicatie die vaak lang duurt."
 
-Een ander interessant aspect dat aangehaald werd was het veilig versturen van sms’en achter het stuur. Een alternatief op spraakbediening wanneer deze niet optimaal zou werken is het kiezen tussen vaste berichten die je via ons concept zou kunnen lezen op het HUD. Scrollen en selecteren gebeurt dan met de _dial_.
+(3) > "Soms beland het foute zakje in het bakje van de verkeerde persoon. Dit wordt wel altijd onderschept bij de laatste controle voor het toedienen van de medicatie."
 
-<p align="center">
-  <img width="60%" src="/images/focus group.png">
-  <img width="38%" src="/images/focus group tafel.jpg">
-</p>
+(4) > "Vooral de voorbereiding van de medicatie is soms een frustrerende taak omdat het nogal lang duurt en omdat er af en toe fouten kunnen gebeuren"
+
+(5) > "Wat in mijn ogen cruciaal is, is het regelmatig contact bij het toedienen van de medicatie tussen bewoners en zorgverleners, wat (vaak onbewust) essentieel is voor het mentale     welzijn van de bewoners. Tegelijkertijd biedt dit proces een moment om de toestand van de bewoners te controleren."
+
+Samengevat leveren de interviews belangrijke inzichten op in het huidige proces van medicatieverdeling in WZC. Het grootste knelpunt ligt in de voorbereiding van de medicatie, die tijdrovend is en soms leidt tot fouten. Hoewel deze fouten meestal worden onderschept tijdens de laatste controle voor de toediening, blijft het proces van voorbereiding frustrerend en tijdsintensief voor de zorgverleners. Daarnaast wordt benadrukt dat het contact tussen zorgverleners en bewoners tijdens de medicatieronde van cruciaal belang is, niet alleen voor de juiste toediening van medicatie, maar ook voor het welzijn van de bewoners.
 
 #### Benchmarking (N=10)
-Om de markt te analyseren maken we gebruik van benchmarking, heel wat designkeuzes zijn vaak al succesvol opgelost door anderen. Je hoeft niet alles opnieuw te onderzoeken, maar door bestaande oplossingen aandachtig te bestuderen kunnen we focussen op meer belangrijke onbekende factoren.
+Om de markt te analyseren maken we gebruik van een benchmarking, hierbij stellen we ons de vraag welke bestaande oplossingen bijdragen aan de efficiëntie en nauwkeurigheid van medicatieverdelingsrondes in woonzorgcentra, en wat zijn de voor- en nadelen van deze oplossingen?
 
-Het probleem werd opgesplitst in twee fundamentele deelproblemen. Hoe kunnen we informatie weergeven en hoe kunnen we bepaalde functies bedienen? Voor beide werden de voor- en nadelen op een rijtje gezet. Daarna werd alles samengegoten in een overzichtelijke *problem-solution* matrix.
+Elk object of systeem binnen deze benchmarking wordt geëvalueerd op basis van volgende specifieke criteria. De bijbehorende vragen dienen als een houvast om elke beoordelingscategorie te verduidelijken.
 
-<p align="center">
-  <img src="/images/benchmarking visualisation.jpg" width="49%"/>
-  <img src="/images/benchmarking controls.jpg" width="49%"/>
-</p>
+Efficiëntie
+     - Hoe draagt het bij aan het verminderen van de werklast voor zorgverleners?
+Nauwkeurigheid en Foutreductie
+     - Hoe effectief is het systeem in het voorkomen van medicatiefouten?
+     - Welke mechanismen zijn aanwezig om menselijke fouten te minimaliseren?
+Gebruikerservaring
+     - Is het systeem intuïtief en gemakkelijk te gebruiken voor zorgverleners?
+     - Is er enige weerstand of zijn er knelpunten die de werkbaarheid beïnvloeden?
+Kosten en Implementatie
+     - Wat zijn de kosten van implementatie en onderhoud?
+     - Hoe gemakkelijk is het systeem te integreren in bestaande workflows?
+Betrouwbaarheid en Ondersteuning
+     - Hoe betrouwbaar is het systeem in dagelijks gebruik?
+     - Welke ondersteuningsmogelijkheden zijn beschikbaar voor gebruikers?
 
-<img src="/images/benchmarking problem solution matrix.jpg"/>
+Omdat de interviews wijzen op de medicatievoorbereiding, werd er voornamelijk gezocht naar bronnen die een verband hebben met de medicijnkar, medicijnrol, en distributietechnologie (zoals een medicijndispencer voor de thuiszorg). De zaken die onderzocht zijn in de benchmarking zijn in onderstaande tabel verzameld.
+
+|Object|Geraadpleegde bronnen|
+|---:|:---:|
+|Veel voorkomende medicijnkar|https://www.medline.be/en/Unit-Dose-Medication-Cart-for-20-Patients , https://www.lapastilla.com/en/medication-carts/|
+|Slimme medicijnkar|https://www.omnicell.co.uk/automating-the-continuum-of-care/point-of-care/amis-pro-smart-cart-smart-medication-dispensing-cart/ , https://www.youtube.com/watch?v=XUXfOwwEEyw](https://www.omnicell.co.uk/automating-the-continuum-of-care/point-of-care/amis-pro-smart-cart-smart-medication-dispensing-cart/ , https://www.youtube.com/watch?v=XUXfOwwEEyw , https://en.nubomed.com/products/ICMMS/medication-management-cabinet/Medication-Management-Cabinet-M3000-M , https://www.alphatronmedical.com/medication-cart)
+|Slimme medicijndispencer|https://www.zorgvannu.nl/innovaties/slimme-medicijndispensers , https://medido.com/nl|
+|Medicatierol	|https://www.coopapotheken.be/pages/zorgcentra , https://www.whitecrosspharmacy.com/pages/MedPack-How-It-Works.cfm|
+
+Vervolgens werden de geraadpleegde bronnen geanalyseerd en beoordeeld o.b.v. vooraf bepaalde criteria (zie hierboven) en in onderstaande tabel geplaatst:
+
+| Categorie            | Basis Medicatiekar                                                                                     | Slimme Medicatiekar                                                                                             | Slimme Medicijndispensers                                                                      | Medicatierollen                                                                               |
+|-----------------------|-------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+| **Wat**              | Eenvoudigere medicatiekarren, transporteren van medicijnen                                            | Slimme medicatiekarren met geautomatiseerde processen en foutreductiemechanismen                              | Slimme Medicijndispensers voor thuiszorg, voor gerichte medicatiedosering                     | Apothekers bieden medicatierollen met medicijnen op tijdsvolgorde, georganiseerd per patiënt. |
+| **Pro’s**            | Gebruiksvriendelijk, betaalbaar, eenvoudig in onderhoud                                               | Geavanceerde foutreductie, tijdbesparing, veilige dispensering                                                | Betrouwbare dosering, geheugensteuntjes voor gebruikers                                       | Efficiënt en gestructureerd, zo goed als overal toegepast                                     |
+| **Con’s**            | Beperkt in foutcontrole en geen automatisering                                                        | Hoge kosten, vereiste technische kennis, grote verandering in systeem                                         | Minder geschikt voor gebruik op schaal in groepszorg                                          | Extern systeem                                                                                |
+| **Relevantie**       | Basis om een slim systeem op te plaatsen, en laagdrempelig te implementeren met extra technologie voor foutcontrole en gebruikersinterface | Inspiratie voor foutcontrole, en visualisatieschermen die informatie over bewoners en medicatie weergeven     | Kan als inspiratie dienen voor automatische dosering per bakje, eventueel gekoppeld aan een slim scherm dat medicatie-informatie toont | Dit is een globaal systeem dat zo goed als overal wordt toegepast                             |
+
+
+Samengevat blijkt uit deze benchmark dat hoewel de huidige technologieën en systemen voor medicatiedistributie in woonzorgcentra diverse voordelen bieden, er nog steeds ruimte is voor verdere optimalisatie. De meeste standaard medicatiekarren, zoals beschreven, leveren stabiliteit en gemak voor het organiseren van medicatie per bewoner. Dit systeem is echter beperkt in geautomatiseerde functionaliteiten en vraagt nog steeds handmatige tussenkomst van zorgpersoneel om elke medicatie correct en tijdig te verdelen.
+Slimme medicatiekarren en geautomatiseerde kasten bieden een stap vooruit door medicatiebeheer efficiënter en veiliger te maken, en dragen bij aan een betere foutreductie. Systemen zoals de geavanceerde medicatiekarren met displays en vergrendelmechanismen minimaliseren het risico op fouten en verhogen de controle, maar missen vaak integratie met bestaande werkstromen. 
+Systemen geïntegreerd in de thuiszorg zoals de automatic pill dispencer ontbreken de mogelijkheid tot sociaal contact tussen bewoner en zorgpersoneel.
+Uit de benchmark blijkt dat er waarde kan liggen in systemen die bestaande karren kunnen uitbreiden met geautomatiseerde componenten.
+
 
 ### Conclusies & implicaties
 De afleiding tijdens het rijden wordt niet veroorzaakt door het touchscreen zelf, maar door het gebrek aan tactiele feedback bij het bedienen van het scherm. Je moet visueel verifiëren wat je gedaan hebt en of je het juist gedaan hebt. Verder genieten knoppen op het stuur en bediening via het touchscreen de voorkeur van gebruikers, gevolgd door fysieke knoppen en stembediening.

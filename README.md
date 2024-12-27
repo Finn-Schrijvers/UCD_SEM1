@@ -10,7 +10,7 @@ Datum  17/01/2025
 - Hero sketch/render/image)
 
   > [!NOTE]
-> - Links naar volledige protocollen en reports zijn te vinden onder de [#bijlagen].
+> - Links naar volledige protocollen en reports zijn te vinden onder de bijlagen (**klikbare link maken naar hoofdstukje bijlagen**).
 > - Ruwe data zoals foto's, video-opnames, _timetables_... zijn te vinden in de bijhorende protocollen en reports.
 
 Het probleem is dat medicatievoorbereiding in woonzorgcentra tijdrovend en foutgevoelig is, wat de werkdruk voor verpleegkundigen verhoogt en de kans op medicatiefouten vergroot. Om dit te onderzoeken, is er een gebruikersonderzoek uitgevoerd (interviews met zorgverleners en tests met primitieve prototypes). Dit leidde tot inzichten in de knelpunten van het huidige proces en gebruikersbehoeften.  

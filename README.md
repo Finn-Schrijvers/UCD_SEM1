@@ -145,13 +145,14 @@ De interviews benadrukken dat vooral het handmatig klaarzetten van medicatie, in
 
 De grootste kans voor innovatie ligt in het ontwikkelen van systemen die het bestaande proces vereenvoudigen en ondersteunen.
 
-**Hoe kunnen we een _dial_ en een HUD gebruiken om afgeleide bestuurders gefocust te houden op de weg, terwijl ze interageren met het dashboard?**
 
 > [!IMPORTANT]
 > Design Requirements:
-> - D3.1 Het touchscreen laat toe de functies en hun bijhorende posities onderling te wijzigen.
-> - D1.1 Het product laat toe functies te bedienen zonder dat de ogen van de baan afwijken.
-> - D2.1 De _dial_ geeft haptische feedback bij het bedienen van de functies.
+> - ...
+> - ...
+> - ...
+
+
 ### Doestellingen
 Wat wilde je bereiken?
 ### Materiaal & methoden

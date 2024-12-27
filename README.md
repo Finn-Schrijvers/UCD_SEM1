@@ -1,9 +1,9 @@
 # Mediflow
 Een scan- en projectiesysteem dat de medicatievoorbereiding vereenvoudigt door visueel aan te geven waar medicatie moet worden geplaatst, met bijkomende controle.
 
-*Projectteam: Finn Schrijvers, Jento Van Laethem 
+_Projectteam: Finn Schrijvers, Jento Van Laethem 
 
-Datum  17/01/2025
+Datum  17/01/2025_
 
 ## Samenvatting
 

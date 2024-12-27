@@ -138,10 +138,12 @@ Systemen geïntegreerd in de thuiszorg zoals de automatic pill dispencer ontbrek
 Uit de benchmark blijkt dat er waarde kan liggen in systemen die bestaande karren kunnen uitbreiden met geautomatiseerde componenten.
 
 
-### Conclusies & implicaties
-De afleiding tijdens het rijden wordt niet veroorzaakt door het touchscreen zelf, maar door het gebrek aan tactiele feedback bij het bedienen van het scherm. Je moet visueel verifiëren wat je gedaan hebt en of je het juist gedaan hebt. Verder genieten knoppen op het stuur en bediening via het touchscreen de voorkeur van gebruikers, gevolgd door fysieke knoppen en stembediening.
+### Conclusie
+Uit de benchmarking en interviews blijkt dat het medicatieverdeelproces in woonzorgcentra aanzienlijke uitdagingen kent, met name op het gebied van tijdsintensieve handelingen, frustraties, en fouten. Hoewel bestaande technologieën zoals medicatiekarren en medicatierollen stabiliteit en basisfunctionaliteit bieden, ontbreekt het hen vaak aan geautomatiseerde ondersteuning om deze uitdagingen effectief te verminderen. Slimme medicatiekarren en automatische dispensers tonen potentieel voor verbeterde foutreductie en efficiëntie, maar missen vaak een naadloze integratie met bestaande systemen en workflows.
 
-HUD's die in de voorruit of op de onderste zwarte band van de ruit geplaatst worden tonen informatie zonder dat de bestuurder zijn ogen van de baan hoeft te halen, wat de veiligheid bevordert. 3D-schermen en hologrammen bieden een goede ervaring en een grote aanpasbaarheid, maar zijn over het algemeen kostbaarder en complexer. Augmented reality-schermen combineren digitale informatie met de echte wereld, wat de navigatie- en veiligheidskenmerken verbetert. Traditionele schermen kunnen ondanks dat ze kosteneffectief en vertrouwd zijn de aandacht van de weg brengen. Fysieke knoppen en knoppen op het stuur geven prioriteit aan tastbare feedback en minimale afleiding, terwijl aanraakschermen en spraakbesturing veelzijdigheid bieden, maar mogelijk ten koste gaan van de veiligheid. Context, compatibiliteit en de leercurve zijn ook belangrijke factoren om in overweging te nemen.
+De interviews benadrukken dat vooral het handmatig klaarzetten van medicatie, inclusief het verwerken van extra medicatie, het meest tijdrovend en foutgevoelig is. Bovendien is het behoud van fysiek contact tussen zorgverleners en bewoners cruciaal, zowel voor het sociale welzijn als voor de controle bij medicatietoediening.
+
+De grootste kans voor innovatie ligt in het ontwikkelen van systemen die bestaande processen automatiseren en ondersteunen, zonder het essentiële fysieke contact tussen zorgverleners en bewoners te verliezen.
 
 **Hoe kunnen we een _dial_ en een HUD gebruiken om afgeleide bestuurders gefocust te houden op de weg, terwijl ze interageren met het dashboard?**
 

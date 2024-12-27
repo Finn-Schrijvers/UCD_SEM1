@@ -9,6 +9,11 @@ Datum  17/01/2025
 
 - Hero sketch/render/image)
 
+  > [!NOTE]
+> - Links naar volledige protocollen en reports zijn te vinden onder de [bijlagen](#bijlagen).
+> - Ruwe data zoals foto's, video-opnames, _timetables_... zijn te vinden in de bijhorende protocollen en reports.
+> - Volledige software, programma's en 3D-bestanden zijn te vinden in de map [files](/files).
+
 Het probleem is dat medicatievoorbereiding in woonzorgcentra tijdrovend en foutgevoelig is, wat de werkdruk voor verpleegkundigen verhoogt en de kans op medicatiefouten vergroot. Om dit te onderzoeken, is er een gebruikersonderzoek uitgevoerd (interviews met zorgverleners en tests met primitieve prototypes). Dit leidde tot inzichten in de knelpunten van het huidige proces en gebruikersbehoeften.  
 
 De oplossing is een systeem met een handscanner en plafondprojector. De handscanner leest medicijnzakjes en koppelt deze aan een digitale database met patiëntinformatie. De projector markeert visueel het juiste vakje in de medicatiekar waar het zakje moet worden geplaatst. Dit systeem logt automatisch welke medicatie is voorbereid en geeft directe feedback bij zowel een juiste als een foute plaatsing.  
@@ -76,6 +81,44 @@ Definieer de belangrijkste designbeslissingen
 
 ## Kritische reflectie
 Max. 500 woorden
+
+## Bijlagen
+- Discovery
+  - Contextual inquiries
+    - [protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/korneel_verraes_ugent_be/EbsFMVmtLS9PsmruQO7G164BsZ5_j9Fu6Rl854Qa3qWmYQ?e=QRkYSC)
+    - [report](https://ugentbe-my.sharepoint.com/:b:/g/personal/korneel_verraes_ugent_be/Eas4YG_7SpxApFeq5h0TQsYBoihKIDYJINAHUwYjbGnJOA?e=orFrf5)
+  - Focus groups
+    - [protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/korneel_verraes_ugent_be/EWh6baFsMMRGoy3ka52hPG4BzbzurMG2UVsQyipgFQgmfw?e=gE4W8u)
+    - [report](https://ugentbe-my.sharepoint.com/:b:/g/personal/korneel_verraes_ugent_be/EcaQ1q157GFNu4digImXqBoBSc3dnoYHoLg65hIQWaBKaA?e=4kcSHy)
+  - Benchmarking
+    - [protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/korneel_verraes_ugent_be/EXawcWpXBVpEt_lIMpMp_2ABLn8YT56Gweo287PCzCVebw?e=ohLtQk)
+    - [report](https://ugentbe-my.sharepoint.com/:b:/g/personal/korneel_verraes_ugent_be/ES47CYFbTF1EnaaEx6L9F90BNoMAPfkbhsjLT51bKq1DlA?e=dMLCQ5)
+- Definition
+  - Dial
+    - [protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/korneel_verraes_ugent_be/EXA8tLux91JJgyoZDhd7l8EBiHgo0lbct7zmwVrcxtyVpQ?e=EAw8CV)
+    - [report](https://ugentbe-my.sharepoint.com/:b:/g/personal/korneel_verraes_ugent_be/ES0ZpXk9lqNEglcTKWC2yTYBzBOITMq5B5F91GWfasvyiA?e=wBfrfh)
+  - User interface
+    - [protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/korneel_verraes_ugent_be/EZTgPm-nd4pIsmm8usEYeBUBz1gfDapTBei-XWnFm_MZ7g?e=bN2sFI)
+    - [report](https://ugentbe-my.sharepoint.com/:b:/g/personal/korneel_verraes_ugent_be/EeAsWolB5e9JmBZqcdCANsUBhkX-JtqDsruhD6Gw2MzLAQ?e=icrMtT)
+- Develop 1
+  - [protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/korneel_verraes_ugent_be/Ed5Cw6uYuAREtow-HiDa7TQBSTC7YIpYGRGnOxcfrB0F6w?e=EO4oEH)
+  - [report](https://ugentbe-my.sharepoint.com/:b:/g/personal/korneel_verraes_ugent_be/ETyGm0r8TDZHsSQlNxfRxxwBqzdG42B0hlqhnKxVS78oCg?e=2yokI9)
+- Develop 2
+  - Expert review
+    - [protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/korneel_verraes_ugent_be/ETqsrg_xHrBOkA1brbJ3t2IBkXsYxzCnGieAo1CWaPYekw?e=dK0oaT)
+    - [report](https://ugentbe-my.sharepoint.com/:b:/g/personal/korneel_verraes_ugent_be/EfVC145y3KxDvudC-U4TsT8BUycW9wZWifMW9NHYxgdx_A?e=c0tfIG)
+  - Usability test
+    - [protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/korneel_verraes_ugent_be/EV5OZfwtGPBFrt3uwZXcVNcBihPvPzmzFxCDzjzQltVrZA?e=9NACFB)
+    - [report](https://ugentbe-my.sharepoint.com/:b:/g/personal/korneel_verraes_ugent_be/EeRQD4A97TdJoxIuUXeTQNYBUtt4XM00AD7CwpS1mvPMRg?e=ToBzBb)
+- Develop 3
+  - [protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/korneel_verraes_ugent_be/EXClvOz8INdJgKvF5UcQUhIBYpvQ8Hyk5CacbJ5YMebfbQ?e=SSEOhn)
+  - [report](https://ugentbe-my.sharepoint.com/:b:/g/personal/korneel_verraes_ugent_be/EdHE8VL7fB5EkfIlp2sKCNsBZ6HWYYmyrerdYaaHGuqJ-A?e=hXYgPn)
+
+## Bronnen
+[^1]: Beeckman, H. (2021, 11 maart). *Aanraakschermen in je auto bedienen drie keer gevaarlijker dan rijden onder invloed: “Europese regels nodig”.* VRTNWS. https://www.vrt.be/vrtnws/nl/2021/03/11/aanraakschermen-in-je-auto-bedienen-drie-keer-gevaarlijker-dan-r/
+[^2]: TRL (2019, 15 april). *Distracted Driving Evidence Has Fallen Behind the Latest Technological Changes.* TRL. https://www.trl.co.uk/news/distracted-driving-evidence-has-fallen-behind-the-latest-technological-changes
+[^3]: Rotmans, M. (2005). *DINBelg 2005* [Dataset]. https://www.dinbelg.be/DINBelg%202005%20antropometrie%20tabel.PDF
+
 
 ## Bronnen
 Voeg je volledige bibliografie toe van bronnen naarwaar je verwees.

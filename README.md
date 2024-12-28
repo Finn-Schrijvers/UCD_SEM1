@@ -141,10 +141,8 @@ Uit de benchmark blijkt dat er waarde kan liggen in systemen die bestaande karre
 ### Conclusie
 Uit de benchmarking en interviews blijkt dat het medicatieverdeelproces in woonzorgcentra aanzienlijke uitdagingen kent, met name op het gebied van tijdsintensieve handelingen, frustraties, en fouten. Hoewel bestaande technologieën zoals medicatiekarren en medicatierollen stabiliteit en basisfunctionaliteit bieden, zijn er nog steeds gebrekken. Slimme medicatiekarren en automatische dispensers tonen potentieel voor verbeterde foutreductie en efficiëntie, maar missen vaak een naadloze integratie met bestaande systemen en workflows.
 
-De interviews benadrukken dat vooral het handmatig klaarzetten van medicatie, inclusief het verwerken van extra medicatie, het meest tijdrovend en foutgevoelig is. Bovendien is het behoud van fysiek contact tussen zorgverleners en bewoners cruciaal, zowel voor het sociale welzijn als voor de controle bij medicatietoediening.
-
-De grootste kans voor innovatie ligt in het ontwikkelen van systemen die het bestaande proces vereenvoudigen en ondersteunen.
-
+De interviews benadrukken dat vooral het handmatig klaarzetten van medicatie het meest tijdrovend en foutgevoelig is. Bovendien is het behoud van fysiek contact tussen zorgverleners en bewoners cruciaal, zowel voor het sociale welzijn als voor de controle bij medicatietoediening.
+Een belangrijk aspect dat niet over het hoofd mag worden gezien, is dat de medicatievoorbereiding niet altijd door dezelfde persoon wordt uitgevoerd. Gezien de hoge werkdruk in WZC onderstreept dit des te meer het belang van een gebruiksvriendelijk en toegankelijk systeem.
 
 > [!IMPORTANT]
 > Design Requirements:
@@ -153,16 +151,6 @@ De grootste kans voor innovatie ligt in het ontwikkelen van systemen die het bes
 > - Integratie in bestaande workflow
 > - Mag contact tussen verpleegkundige en bewoner niet verstoren
 > - Moet toegankelijk zijn voor verschillende mensen
-
-
-### Doestellingen
-Wat wilde je bereiken?
-### Materiaal & methoden
-Hoe onderzocht je dit? Wees volledig.
-### Resultaten
-Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
-### Conclusies & implicaties
-Definieer de belangrijkste designbeslissingen
 
 ## Definition
 Max. 1000 woorden

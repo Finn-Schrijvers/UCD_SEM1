@@ -164,6 +164,7 @@ In de eerste wave is het de bedoeling om te achterhalen of de conceptuele werkin
 
 ![Afbeelding van WhatsApp op 2024-12-28 om 17 47 29_0d98a9ca](https://github.com/user-attachments/assets/b2ecc2be-5ea1-41b3-ac69-c5f7cc917d90)
 
+#### Prototype
 Na brainstormen is het concept voor het eerste protoype vastgelegd. Zoals hieronder te zien, beschrijft prototype 1 een dockingsysteem waarbij de medicatiekar gedeeltelijk wordt ingereden. In dit dock bevindt zich een dispenser waarin een medicijnrol geplaatst kan worden.
 
   ![image](https://github.com/user-attachments/assets/0438129f-f481-40b4-afd8-0186e96bd285) ![image](https://github.com/user-attachments/assets/e7150856-0355-4097-954b-3c07215c2f35)
@@ -176,17 +177,31 @@ Zoals vergroot weergegeven op onderstaande afbeelding, is de machine voorzien va
 
  ![image](https://github.com/user-attachments/assets/28cecc1b-dd88-44eb-bbcd-22678e4bfa52) ![image](https://github.com/user-attachments/assets/b0dfa3bd-de1d-45ca-b9b6-4aaa1f276b2c)
 
-Om het prototype te ondersteunen met de handelingen is er eenvoudige interface voorzien. Dit interface zal toelichten welke handelingen ondernomen dienen te worden of informatie te verkrijgen tijdens het proces. Hoe deze interface er uit ziet, zie je op onderstaande afbeelding.
+Om het prototype te ondersteunen met de handelingen is er eenvoudige interface voorzien. Dit interface zal toelichten welke handelingen ondernomen dienen te worden of informatie te verkrijgen tijdens het proces. Hoe deze interface er uit ziet, zie je op onderstaande afbeelding, de volledige interface is terug te vinden in bijlagen.
 
 ![image](https://github.com/user-attachments/assets/151c33c7-568b-4ac0-a7d3-86103347ae89)
 
- 
+#### Resultaten
+Uit de eerste test blijkt dat het huidige prototype in zijn huidige vorm niet implementeerbaar is. Dit komt door meerdere factoren:  
+
+1. **Variatie in medicatierollen**: Medicatierollen komen in WZC's op verschillende manieren binnen (per patiënt of één rol voor een groep). De oplossing moet al deze variaties ondersteunen.  
+2. **Grootte en complexiteit**: Het prototype is te groot en complex, zowel qua functionaliteit als gebruiksvriendelijkheid voor verpleegkundigen. Een eenvoudiger, niet-machine-achtig ontwerp zou beter passen.  
+
+Er is een pivot nodig naar een ander concept om medicatievoorbereiding te optimaliseren. Dit nieuwe concept moet rekening houden met de verwerking van meerdere medicatierollen per sessie, en de technische en gebruiksvriendelijke aspecten van de oplossing.  
+
+> [!IMPORTANT]
+> Design Requirements:
+> - ontwerp moet beperkt zijn in grootte
+> - bruikbaar in WZC die verschillende werking hebben omtrent de medicijnrol
+> - ontwerp moet beperkt zijn in compexiteit
 
 
+### Wave 2
+Na de grote pivot in wave 1 is het in deze fase belangrijk om eerst te verifiëren of het nieuwe concept bruikbaar is. We zijn tot een nieuw concept gekomen door te brainstormen, rekeninghoudend met de randvoorwaarden voortvloeiend uit wave 1.
 
-### Resultaten
+#### Prototype
 
-
+#### Resultaten
 
 
 <p align="center">

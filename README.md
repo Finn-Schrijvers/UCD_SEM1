@@ -64,7 +64,7 @@ Een helder geformuleerde _"how might we"_ bekomen.
 - benchmarking
 
 ### Gebruikersinterview (N=3)
-Voordat er al gebrainstormed wordt over het maken van ontwerpen, wordt eerst de probleemruimte verder verfijnd door in contact te komen met verpleegkundigen binnen WZC. Deze personen staan dag dagelijks in de probleemruimte dus zij kunnen ons het best aangeven welk aspect binnen de medicatieverdeling het best meer aandacht verdient voor optimalisatie. Alvorens het uitvoeren van de intervieuws werd er een interview protocol werd opgesteld (zie bijlage). Dit protocol beschrijft het doel van het interview, zijnde wat we te weten willen komen van de gebruiker:
+De probleemruimte wordt verfijnd door contact te hebben met verpleegkundigen binnen WZC. Zij kunnen het beste aangeven welk aspect van de medicatieverdeling aandacht verdient voor optimalisatie. Voorafgaand aan de interviews werd een interviewprotocol opgesteld (zie bijlage). Dit beschrijft het doel van het interview en wat we willen weten van de gebruiker.
 
 (1) Hoe werkt het huidige medicatieverdelingsproces?
 (2) Welk proces neemt het meeste tijd in beslag?
@@ -91,7 +91,7 @@ Op de geplande tijdstippen wordt de medicijnkar naar de bewoners gereden om de m
 
 (5) > "Wat in mijn ogen cruciaal is, is het regelmatig contact bij het toedienen van de medicatie tussen bewoners en zorgverleners, wat (vaak onbewust) essentieel is voor het mentale     welzijn van de bewoners. Tegelijkertijd biedt dit proces een moment om de toestand van de bewoners te controleren."
 
-Samengevat leveren de interviews belangrijke inzichten op in het huidige proces van medicatieverdeling in WZC. Het grootste knelpunt ligt in de voorbereiding van de medicatie, die tijdrovend is en soms leidt tot fouten. Hoewel deze fouten meestal worden onderschept tijdens de laatste controle voor de toediening, blijft het proces van voorbereiding frustrerend en tijdsintensief voor de zorgverleners. Daarnaast wordt benadrukt dat het contact tussen zorgverleners en bewoners tijdens de medicatieronde van cruciaal belang is, niet alleen voor de juiste toediening van medicatie, maar ook voor het welzijn van de bewoners.
+De interviews geven inzicht in het medicatieverdelingsproces in WZC. De grootste uitdaging ligt bij de medicatievoorbereiding die tijdrovende en foutgevoelig is. Hoewel fouten meestal tijdens de eindcontrole worden opgemerkt, blijft het proces frustrerend voor zorgverleners. Ook is het contact tussen zorgverleners en bewoners tijdens de medicatieronde cruciaal voor de juiste toediening en het welzijn van de bewoners.
 
 #### Benchmarking (N=10)
 Om de markt te analyseren maken we gebruik van een benchmarking, hierbij stellen we ons de vraag welke bestaande oplossingen bijdragen aan de efficiëntie en nauwkeurigheid van medicatieverdelingsrondes in woonzorgcentra, en wat zijn de voor- en nadelen van deze oplossingen?
@@ -132,17 +132,13 @@ Vervolgens werden de geraadpleegde bronnen geanalyseerd en beoordeeld o.b.v. voo
 | **Relevantie**       | Basis om een slim systeem op te plaatsen, en laagdrempelig te implementeren met extra technologie voor foutcontrole en gebruikersinterface | Inspiratie voor foutcontrole, en visualisatieschermen die informatie over bewoners en medicatie weergeven     | Kan als inspiratie dienen voor automatische dosering per bakje, eventueel gekoppeld aan een slim scherm dat medicatie-informatie toont | Dit is een globaal systeem dat zo goed als overal wordt toegepast                             |
 
 
-Samengevat blijkt uit deze benchmark dat hoewel de huidige technologieën en systemen voor medicatiedistributie in woonzorgcentra diverse voordelen bieden, er nog steeds ruimte is voor verdere optimalisatie. De meeste standaard medicatiekarren, zoals beschreven, leveren stabiliteit en gemak voor het organiseren van medicatie per bewoner. Dit systeem is echter beperkt in geautomatiseerde functionaliteiten en vraagt nog steeds handmatige tussenkomst van zorgpersoneel om elke medicatie correct en tijdig te verdelen.
-Slimme medicatiekarren en geautomatiseerde kasten bieden een stap vooruit door medicatiebeheer efficiënter en veiliger te maken, en dragen bij aan een betere foutreductie. Systemen zoals de geavanceerde medicatiekarren met displays en vergrendelmechanismen minimaliseren het risico op fouten en verhogen de controle, maar missen vaak integratie met bestaande werkstromen. 
-Systemen geïntegreerd in de thuiszorg zoals de automatic pill dispencer ontbreken de mogelijkheid tot sociaal contact tussen bewoner en zorgpersoneel.
-Uit de benchmark blijkt dat er waarde kan liggen in systemen die bestaande karren kunnen uitbreiden met geautomatiseerde componenten.
+Samengevat bieden de bestaande technologieën voordelen, maar er is ruimte voor verbetering. Standaard medicatiekarren bieden stabiliteit en gemak, maar missen automatisering en vereisen veel handmatig werk. Slimme medicatiekarren en geautomatiseerde kasten verbeteren efficiëntie en veiligheid, maar missen vaak integratie met bestaande werkstromen. Thuiszorgsystemen zoals automatische pilverdelers ontbreken sociaal contact. Systemen die die bijdragen aan de bestaande werking is hierbij een nuttig concept.
 
 
 ### Conclusie
-Uit de benchmarking en interviews blijkt dat het medicatieverdeelproces in woonzorgcentra aanzienlijke uitdagingen kent, met name op het gebied van tijdsintensieve handelingen, frustraties, en fouten. Hoewel bestaande technologieën zoals medicatiekarren en medicatierollen stabiliteit en basisfunctionaliteit bieden, zijn er nog steeds gebrekken. Slimme medicatiekarren en automatische dispensers tonen potentieel voor verbeterde foutreductie en efficiëntie, maar missen vaak een naadloze integratie met bestaande systemen en workflows.
+Uit de benchmarking en interviews blijkt dat het medicatieverdeelproces in woonzorgcentra aanzienlijke uitdagingen kent, zoals tijdsintensieve handelingen, frustraties en fouten. Bestaande technologieën zoals medicatiekarren bieden stabiliteit, maar missen automatisering. Slimme medicatiekarren en automatische dispensers verbeteren foutreductie en efficiëntie, maar integreren vaak niet goed met bestaande systemen en workflows.
 
-De interviews benadrukken dat vooral het handmatig klaarzetten van medicatie het meest tijdrovend en foutgevoelig is. Bovendien is het behoud van fysiek contact tussen zorgverleners en bewoners cruciaal, zowel voor het sociale welzijn als voor de controle bij medicatietoediening.
-Een belangrijk aspect dat niet over het hoofd mag worden gezien, is dat de medicatievoorbereiding niet altijd door dezelfde persoon wordt uitgevoerd. Gezien de hoge werkdruk in WZC onderstreept dit des te meer het belang van een gebruiksvriendelijk en toegankelijk systeem.
+Interviews benadrukken dat handmatige medicatievoorbereiding het meest tijdrovend en foutgevoelig is. Fysiek contact tussen zorgverleners en bewoners is cruciaal voor sociaal welzijn en controle bij medicatietoediening. Vanwege de hoge werkdruk en wisselende personen die de medicatie voorbereiden, is een gebruiksvriendelijk en toegankelijk systeem essentieel.
 
 > [!IMPORTANT]
 > Design Requirements:
@@ -152,16 +148,108 @@ Een belangrijk aspect dat niet over het hoofd mag worden gezien, is dat de medic
 > - Mag contact tussen verpleegkundige en bewoner niet verstoren
 > - Moet toegankelijk zijn voor verschillende mensen
 
-## Definition
-Max. 1000 woorden
-### Doestellingen
-Wat wilde je bereiken?
-### Materiaal & methoden
-Hoe onderzocht je dit? Wees volledig.
+## Definition (N=3)
+In de definitiefase bepalen we de oplossingen die we dit jaar zullen uitwerken. We onderzoeken mogelijke oplossingen op basis van het eerder gedefinieerde probleem, om een weloverwogen conceptkeuze te maken. Dit concept vormt de basis voor verdere ontwikkeling in het tweede semester. Deze definition fase zal opgedeeld worden in 3 waves waarbij het de bedoeling is om het concept bij elke wave telkens meer te kunnen verfijnen.
+
+### Doelstellingen
+Tot een conceptueel ontwerp komen m.b.v.  _quick-and-dirty_ prototypes
+
+### Materiaal & methoden_
+- kartonnen prototypes
+- digitaal ontworpen interfaces
+- gebruikerstesten
+
+### Wave 1
+In de eerste wave is het de bedoeling om te achterhalen of de conceptuele werking die we in ons hoofd hebben, een goede werking is. Als eerst hebben we de omgeving nagemaakt om d.m.v. een rollplay beter inzicht te krijgen in het voorbereiden van de medicatie. De opstelling zoals hieronder te zien representeert een medicijnkar met de bakjes waarin de medicatie moet komen.
+
+![Afbeelding van WhatsApp op 2024-12-28 om 17 47 29_0d98a9ca](https://github.com/user-attachments/assets/b2ecc2be-5ea1-41b3-ac69-c5f7cc917d90)
+
+
 ### Resultaten
-Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
+
+
+
+
+<p align="center">
+  <img src="/images/user test dial plasticine.png" width="49%"/>
+  <img src="/images/user test dial schets.png" width="49%"/>
+</p>
+
+<p align="center">
+  <img src="/images/user test dial bord sizes.jpg" width="32%"/>
+  <img src="/images/user test dial bord shapes.jpg" width="32%"/>
+  <img src="/images/user test dial bord materials.jpg" width="32%"/>
+</p>
+
+<p align="center">
+  <img src="/images/user test dial foto 1.jpg" width="24.5%"/>
+  <img src="/images/user test dial foto 2.jpg" width="24.5%"/>
+  <img src="/images/user test dial foto 3.jpg" width="24.5%"/>
+  <img src="/images/user test dial foto 4.jpg" width="24.5%"/>
+</p>
+
+Na de test werden alle formulieren verzameld en geanalyseerd. De resultaten van de opgestelde top 3's werden samengegoten in een scoringsmatrix. Prototypes op plaats 1 kregen een score +3, prototypes op plaats 2 kregen een score +2 en prototypes op plaats 3 kregen een score +1. Prototypes waar deelnemers eerder een afkeur voor hadden, kregen een -1. Door de scores voor elk model van alle deelnemers bij elkaar op te tellen, hebben we een eindscore afgeleid. Een hogere eindscore duidde op een gunstigere ervaring.
+
+<p align="center">
+  <img src="/images/user test dial matrix sizes.png" width="32%"/>
+  <img src="/images/user test dial matrix shapes.png" width="32%"/>
+  <img src="/images/user test dial matrix materials.png" width="32%"/>
+</p>
+
+#### User interface (N=5)
+Uit de eindscores van de eerste gebruikerstesten konden we met de meest ideale _dial_vorm opnieuw naar de gebruiker trekken. Deze keer werd bewust gekozen voor nieuwe testpersonen. Door het kiezen van nieuwe testpersonen kunnen er nieuwe visies ontstaan en kunnen we al dan niet bevestigd krijgen of de gebruiker ons concept begrijpt.
+Met deze test richten we ons op de conceptuele interactie van de _dial_functies en een interface. In het tweede semester zetten we deze resultaten om in een functioneel en interactief ontwerp.
+We trokken naar de gebruiker met drie schermgroottes gevisualiseerd op dibond (een glad aluminium-kunststofplaat), zes verschillende interfaces geprint op papier, een werkende interactie-interface - gemaakt in Figma - en natuurlijk de _dial_.
+Na een korte toelichting volgden er al enkele positieve reacties op het concept en kwamen er enkele interessante opmerkingen. Daarna mocht iedereen kiezen tussen drie schermgroottes, wel met de functie van de _dial_ in hun achterhoofd.
+Ze kregen ook zes interfaces voorgeschoteld waarvan ze een top drie mochten maken en eventueel een interface als onbruikbaar voor het concept markeren.
+
+<p align="center">
+  <img src="/images/user test interface layout 1.png" width="32%"/>
+  <img src="/images/user test interface layout 2.png" width="32%"/>
+  <img src="/images/user test interface layout 3.png" width="32%"/>
+</p>
+
+<p align="center">
+  <img src="/images/user test interface layout 4.png" width="32%"/>
+  <img src="/images/user test interface layout 5.png" width="32%"/>
+  <img src="/images/user test interface layout 6.png" width="32%"/>
+</p>
+
 ### Conclusies & implicaties
-Definieer de belangrijkste designbeslissingen
+Uit de klei-test blijkt dat gebruikers een voorkeur hebben voor kleinere knoppen, echter vermelden een aantal deelnemers dat hun voorkeur gaat naar een knop met voldoende volume en grip. De groottes variëren niet zo heel veel, maar de vormen wel, gaande van klassieke cilinders tot schuivers en bolvormige knoppen.
+
+> "Eventueel kan de knop conisch gemaakt worden. Dit zorgt niet enkel voor meer grip maar geeft mij ook het signaal dat de knop verplaatst kan worden."
+
+Uit de scoringsmatrix blijkt dat een knop met een diameter van 60 mm en een hoogte van 20 mm het meest geschikt is, ook de licht hogere _dial_ werd positief bevonden. Daarnaast gaat de voorkeur qua vorm naar een gegolfde contour. Op vlak van materiaal prefereren de deelnemers een licht indrukbaar materiaal, maar ook de ruwere materialen vallen in de smaak.
+
+Samengevat:
+- dubbele conische vorm
+- diameter 55 mm
+- hoogte 30 mm
+- geribbelde contour
+- rubberachtig materiaal (nog te exploreren via 3D-printen)
+
+Uit de interfacetest blijkt dat onderstaande interface als het meest aangenaam, modern, intuïtief en gebruiksvriendelijk aanvoelt. De interactie met de _dial_ moet niet noodzakelijk visueel verduidelijkt worden. Volgens de gebruikers is het slechts een gewoontekwestie om de interactie met de _dial_ en het scherm te begrijpen.
+Gebruikers beschouwen de mediummaat (350 x 215 mm) van het touchscreen als meest ideaal. Het is noodzakelijk dat die niet te klein is om gemakkelijk met de _dial_ te kunnen interageren op verschillende plaatsen op het scherm. De belangrijkste functies zijn vooral de standaardfuncties zoals temperatuurregeling, muziek, volume en navigatie. Met zes mogelijke posities op ons scherm, en dus zes bedienbare functies tijdens het rijden, zitten we goed.
+
+> "Net zoals in mijn BMW zou ik het handig vinden dat de _dial_ ook naast het scherm bedienbaar is zodat ik niet telkens met mijn hele arm tot het scherm hoef te reiken."
+
+Het is belangrijk rekening te houden met verschillende armlengtes. Het scherm mag niet te ver zijn en is best gericht naar de bestuurder. Dit zet ons aan het denken om een kantelbaar scherm te integreren waarbij beperkingen opgelegd worden aan de hand van de richting van het scherm (bestuurder vs passagier)...
+
+<p align="center">
+  <img src="/images/user test interface foto.png" width="47%"/>
+  <img src="/images/user test interface uitkomst.png" width="52%"/>
+</p>
+
+> [!IMPORTANT]
+>  Design Requirements:
+> - D1.2 Het product laat toe zes functies veilig te bedienen tijdens het rijden.
+> - D1.3 Het product is voor 95% van de mensen op elke mogelijke positie comfortabel toegankelijk.
+> - D2.2 De _dial_ heeft een conische vorm.
+> - D2.3 De _dial_ ligt voor 95% van de mensen goed in de hand.
+> - D2.4 De _dial_ kan ook naast het scherm bediend worden.
+> - D3.2 Het touchscreen is goed leesbaar.
+> - D3.3 Het touchscreen oogt modern.
 
 ## Bill of materials
 - Welk

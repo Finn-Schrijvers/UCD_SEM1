@@ -160,9 +160,26 @@ Tot een conceptueel ontwerp komen m.b.v.  _quick-and-dirty_ prototypes
 - gebruikerstesten
 
 ### Wave 1
-In de eerste wave is het de bedoeling om te achterhalen of de conceptuele werking die we in ons hoofd hebben, een goede werking is. Als eerst hebben we de omgeving nagemaakt om d.m.v. een rollplay beter inzicht te krijgen in het voorbereiden van de medicatie. De opstelling zoals hieronder te zien representeert een medicijnkar met de bakjes waarin de medicatie moet komen.
+In de eerste wave is het de bedoeling om te achterhalen of de conceptuele werking die we in ons hoofd hebben, een goede werking is. Als eerst hebben we de omgeving nagemaakt om d.m.v. een rollplay beter inzicht te krijgen in het voorbereiden van de medicatie. De opstelling zoals hieronder te zien representeert een medicijnkar met de bakjes waarin de medicatie moet komen (op deze kar ligt het eerste prototype, dit mag je negeren).
 
 ![Afbeelding van WhatsApp op 2024-12-28 om 17 47 29_0d98a9ca](https://github.com/user-attachments/assets/b2ecc2be-5ea1-41b3-ac69-c5f7cc917d90)
+
+Na brainstormen is het concept voor het eerste protoype vastgelegd. Zoals hieronder te zien, beschrijft prototype 1 een dockingsysteem waarbij de medicatiekar gedeeltelijk wordt ingereden. In dit dock bevindt zich een dispenser waarin een medicijnrol geplaatst kan worden.
+
+  ![image](https://github.com/user-attachments/assets/0438129f-f481-40b4-afd8-0186e96bd285) ![image](https://github.com/user-attachments/assets/e7150856-0355-4097-954b-3c07215c2f35)
+
+Figuur 1: Prototype 1 geheel
+De dispenser leest automatisch de gegevens op de medicatiezakjes, controleert de inhoud en plaatst ze in de juiste bakjes van de medicatiekar. Deze dispencer unitis meer gedetailleerd weergegeven op Figuur 2. De dispencer zal tot de juiste bakjes geraken d.m.v. core-XY bewegingen, die het in staat stelt om de zakjes in de juiste compartimenten te plaatsen.
+ 	 
+Figuur 2: Prototype 1 dispencer unit
+Zoals vergroot weergegeven op Figuur 3, is de machine voorzien van een bedieningspaneel waarop verschillende statussen en knoppen geraadpleegd en bediend kunnen worden.
+
+ 	 
+Figuur 3: Prototype 1 controlepaneel
+Om het prototype te ondersteunen met de handelingen is er eenvoudige interface voorzien. Dit interface zal toelichten welke handelingen ondernomen dienen te worden of informatie te verkrijgen tijdens het proces. Hoe deze interface er uit ziet, zie je in Figuur 4.
+
+ 
+
 
 
 ### Resultaten

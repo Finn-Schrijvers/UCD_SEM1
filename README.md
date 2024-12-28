@@ -168,15 +168,17 @@ Na brainstormen is het concept voor het eerste protoype vastgelegd. Zoals hieron
 
   ![image](https://github.com/user-attachments/assets/0438129f-f481-40b4-afd8-0186e96bd285) ![image](https://github.com/user-attachments/assets/e7150856-0355-4097-954b-3c07215c2f35)
 
-Figuur 1: Prototype 1 geheel
-De dispenser leest automatisch de gegevens op de medicatiezakjes, controleert de inhoud en plaatst ze in de juiste bakjes van de medicatiekar. Deze dispencer unitis meer gedetailleerd weergegeven op Figuur 2. De dispencer zal tot de juiste bakjes geraken d.m.v. core-XY bewegingen, die het in staat stelt om de zakjes in de juiste compartimenten te plaatsen.
- 	 
-Figuur 2: Prototype 1 dispencer unit
-Zoals vergroot weergegeven op Figuur 3, is de machine voorzien van een bedieningspaneel waarop verschillende statussen en knoppen geraadpleegd en bediend kunnen worden.
+De dispenser leest automatisch de gegevens op de medicatiezakjes, controleert de inhoud en plaatst ze in de juiste bakjes van de medicatiekar. Deze dispencer unitis meer gedetailleerd weergegeven op onderstaande afbeelding. De dispencer zal tot de juiste bakjes geraken d.m.v. core-XY bewegingen, die het in staat stelt om de zakjes in de juiste compartimenten te plaatsen.
 
- 	 
-Figuur 3: Prototype 1 controlepaneel
-Om het prototype te ondersteunen met de handelingen is er eenvoudige interface voorzien. Dit interface zal toelichten welke handelingen ondernomen dienen te worden of informatie te verkrijgen tijdens het proces. Hoe deze interface er uit ziet, zie je in Figuur 4.
+   ![image](https://github.com/user-attachments/assets/d621e00f-b8bd-4fd4-ab80-113c9b5ae8fa) ![image](https://github.com/user-attachments/assets/3dd0fd7a-a330-4dc6-b660-fa45c71c2f4d)
+
+Zoals vergroot weergegeven op onderstaande afbeelding, is de machine voorzien van een bedieningspaneel waarop verschillende statussen en knoppen geraadpleegd en bediend kunnen worden.
+
+ ![image](https://github.com/user-attachments/assets/28cecc1b-dd88-44eb-bbcd-22678e4bfa52) ![image](https://github.com/user-attachments/assets/b0dfa3bd-de1d-45ca-b9b6-4aaa1f276b2c)
+
+Om het prototype te ondersteunen met de handelingen is er eenvoudige interface voorzien. Dit interface zal toelichten welke handelingen ondernomen dienen te worden of informatie te verkrijgen tijdens het proces. Hoe deze interface er uit ziet, zie je op onderstaande afbeelding.
+
+![image](https://github.com/user-attachments/assets/151c33c7-568b-4ac0-a7d3-86103347ae89)
 
  
 

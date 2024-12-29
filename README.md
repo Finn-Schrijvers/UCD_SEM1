@@ -200,90 +200,39 @@ Er is een pivot nodig naar een ander concept om medicatievoorbereiding te optima
 Na de grote pivot in wave 1 is het in deze fase belangrijk om eerst te verifiëren of het nieuwe concept bruikbaar is. We zijn tot een nieuw concept gekomen door te brainstormen, rekeninghoudend met de randvoorwaarden voortvloeiend uit wave 1.
 
 #### Prototype
+Het tweede prototype bestaat uit een scanner en een projector. De scanner heeft 2 verschillende variaties, rechts en in het midden te zien op onderstaande afbeelding en de projector is links op de figuur te zien.
+ 
+![image](https://github.com/user-attachments/assets/5f389de4-d7ed-4317-bb0e-7e394cee2486)
+
+**##### Scanner**
+Voor deze test is een traditionele supermarkt-scanner in klei nagemaakt (rechts in bovenstaande figuur) om medicatiezakjes te scannen.
+In het midden van bovenstaande figuur staat een kleimodel van een borstscanner, bedoeld om handsfree scannen mogelijk te maken. Zoals getoond in onderstaande figuur, wordt deze scanner op de borst van de verpleegkundige bevestigd.
+De borstscanner is gevuld om het gewicht en gebruik realistischer te maken. Hierdoor kan getest worden of de scanner bijvoorbeeld niet losraakt of hinderlijk is tijdens bewegingen.
+ 
+![image](https://github.com/user-attachments/assets/60b47d77-f1d7-43cd-acf5-a31fedddad4c)
+
+**##### Projector**
+Links op de eerste afbeelding stelt het prototype een projector voor, waarbij na het scannen mee op de medicijnkar geprojecteerd zal worden om de plaats van het gescande zakje aan te geven.
+Het is de bedoeling dat deze tegen de muur gemonteerd wordt om horizontaal op de schuiven van de kar te kunnen projecteren. Het prototype is voorzien van een lampje en een knop om het lampje aan te zetten om de interactie meer realistisch te maken.
 
 #### Resultaten
+Uit deze tweede test valt er te concluderen dat het huidige prototype wel implementeerbaar is mits enkele aanpassingen. 
 
-
-<p align="center">
-  <img src="/images/user test dial plasticine.png" width="49%"/>
-  <img src="/images/user test dial schets.png" width="49%"/>
-</p>
-
-<p align="center">
-  <img src="/images/user test dial bord sizes.jpg" width="32%"/>
-  <img src="/images/user test dial bord shapes.jpg" width="32%"/>
-  <img src="/images/user test dial bord materials.jpg" width="32%"/>
-</p>
-
-<p align="center">
-  <img src="/images/user test dial foto 1.jpg" width="24.5%"/>
-  <img src="/images/user test dial foto 2.jpg" width="24.5%"/>
-  <img src="/images/user test dial foto 3.jpg" width="24.5%"/>
-  <img src="/images/user test dial foto 4.jpg" width="24.5%"/>
-</p>
-
-Na de test werden alle formulieren verzameld en geanalyseerd. De resultaten van de opgestelde top 3's werden samengegoten in een scoringsmatrix. Prototypes op plaats 1 kregen een score +3, prototypes op plaats 2 kregen een score +2 en prototypes op plaats 3 kregen een score +1. Prototypes waar deelnemers eerder een afkeur voor hadden, kregen een -1. Door de scores voor elk model van alle deelnemers bij elkaar op te tellen, hebben we een eindscore afgeleid. Een hogere eindscore duidde op een gunstigere ervaring.
-
-<p align="center">
-  <img src="/images/user test dial matrix sizes.png" width="32%"/>
-  <img src="/images/user test dial matrix shapes.png" width="32%"/>
-  <img src="/images/user test dial matrix materials.png" width="32%"/>
-</p>
-
-#### User interface (N=5)
-Uit de eindscores van de eerste gebruikerstesten konden we met de meest ideale _dial_vorm opnieuw naar de gebruiker trekken. Deze keer werd bewust gekozen voor nieuwe testpersonen. Door het kiezen van nieuwe testpersonen kunnen er nieuwe visies ontstaan en kunnen we al dan niet bevestigd krijgen of de gebruiker ons concept begrijpt.
-Met deze test richten we ons op de conceptuele interactie van de _dial_functies en een interface. In het tweede semester zetten we deze resultaten om in een functioneel en interactief ontwerp.
-We trokken naar de gebruiker met drie schermgroottes gevisualiseerd op dibond (een glad aluminium-kunststofplaat), zes verschillende interfaces geprint op papier, een werkende interactie-interface - gemaakt in Figma - en natuurlijk de _dial_.
-Na een korte toelichting volgden er al enkele positieve reacties op het concept en kwamen er enkele interessante opmerkingen. Daarna mocht iedereen kiezen tussen drie schermgroottes, wel met de functie van de _dial_ in hun achterhoofd.
-Ze kregen ook zes interfaces voorgeschoteld waarvan ze een top drie mochten maken en eventueel een interface als onbruikbaar voor het concept markeren.
-
-<p align="center">
-  <img src="/images/user test interface layout 1.png" width="32%"/>
-  <img src="/images/user test interface layout 2.png" width="32%"/>
-  <img src="/images/user test interface layout 3.png" width="32%"/>
-</p>
-
-<p align="center">
-  <img src="/images/user test interface layout 4.png" width="32%"/>
-  <img src="/images/user test interface layout 5.png" width="32%"/>
-  <img src="/images/user test interface layout 6.png" width="32%"/>
-</p>
-
-### Conclusies & implicaties
-Uit de klei-test blijkt dat gebruikers een voorkeur hebben voor kleinere knoppen, echter vermelden een aantal deelnemers dat hun voorkeur gaat naar een knop met voldoende volume en grip. De groottes variëren niet zo heel veel, maar de vormen wel, gaande van klassieke cilinders tot schuivers en bolvormige knoppen.
-
-> "Eventueel kan de knop conisch gemaakt worden. Dit zorgt niet enkel voor meer grip maar geeft mij ook het signaal dat de knop verplaatst kan worden."
-
-Uit de scoringsmatrix blijkt dat een knop met een diameter van 60 mm en een hoogte van 20 mm het meest geschikt is, ook de licht hogere _dial_ werd positief bevonden. Daarnaast gaat de voorkeur qua vorm naar een gegolfde contour. Op vlak van materiaal prefereren de deelnemers een licht indrukbaar materiaal, maar ook de ruwere materialen vallen in de smaak.
-
-Samengevat:
-- dubbele conische vorm
-- diameter 55 mm
-- hoogte 30 mm
-- geribbelde contour
-- rubberachtig materiaal (nog te exploreren via 3D-printen)
-
-Uit de interfacetest blijkt dat onderstaande interface als het meest aangenaam, modern, intuïtief en gebruiksvriendelijk aanvoelt. De interactie met de _dial_ moet niet noodzakelijk visueel verduidelijkt worden. Volgens de gebruikers is het slechts een gewoontekwestie om de interactie met de _dial_ en het scherm te begrijpen.
-Gebruikers beschouwen de mediummaat (350 x 215 mm) van het touchscreen als meest ideaal. Het is noodzakelijk dat die niet te klein is om gemakkelijk met de _dial_ te kunnen interageren op verschillende plaatsen op het scherm. De belangrijkste functies zijn vooral de standaardfuncties zoals temperatuurregeling, muziek, volume en navigatie. Met zes mogelijke posities op ons scherm, en dus zes bedienbare functies tijdens het rijden, zitten we goed.
-
-> "Net zoals in mijn BMW zou ik het handig vinden dat de _dial_ ook naast het scherm bedienbaar is zodat ik niet telkens met mijn hele arm tot het scherm hoef te reiken."
-
-Het is belangrijk rekening te houden met verschillende armlengtes. Het scherm mag niet te ver zijn en is best gericht naar de bestuurder. Dit zet ons aan het denken om een kantelbaar scherm te integreren waarbij beperkingen opgelegd worden aan de hand van de richting van het scherm (bestuurder vs passagier)...
-
-<p align="center">
-  <img src="/images/user test interface foto.png" width="47%"/>
-  <img src="/images/user test interface uitkomst.png" width="52%"/>
-</p>
+Een tweede projector, gemonteerd aan het plafond, zou zowel het bakje als het compartiment binnen dit bakje voor de toedientijdstippen kunnen aanduiden. Dit vergroot de toepasbaarheid van het concept, vooral bij medicijnkarren met schuiven waarbij de bakjes pas zichtbaar worden na het openen van een lade.
+Daarnaast kan projectie in twee verschillende kleuren (groen en rood) dienen als feedbacksysteem: groen voor correct geplaatste zakjes en rood voor fout geplaatste zakjes. Om dit mogelijk te maken, moet het systeem herkennen in welk compartiment het zakje is geplaatst. Dit kan worden gerealiseerd door een geïntegreerde, getrainde camera in de projectoren.
 
 > [!IMPORTANT]
->  Design Requirements:
-> - D1.2 Het product laat toe zes functies veilig te bedienen tijdens het rijden.
-> - D1.3 Het product is voor 95% van de mensen op elke mogelijke positie comfortabel toegankelijk.
-> - D2.2 De _dial_ heeft een conische vorm.
-> - D2.3 De _dial_ ligt voor 95% van de mensen goed in de hand.
-> - D2.4 De _dial_ kan ook naast het scherm bediend worden.
-> - D3.2 Het touchscreen is goed leesbaar.
-> - D3.3 Het touchscreen oogt modern.
+> Design Requirements:
+> - Moet capabel zijn om het compartiment voor toedieningstijdsstip van het medicatiebakje aan te duiden
+> - Er moet een vorm van Feedback zijn -> zakje juist geplaatst ja of nee?
+
+### Conclusies & implicaties
+Het oorspronkelijke prototype uit test 1 is niet geschikt voor implementatie in zijn huidige vorm, vooral vanwege de complexiteit, omvang en het gebrek aan flexibiliteit om verschillende werkmethoden binnen WZC te ondersteunen. Dit heeft geleid tot de noodzaak voor een pivot naar een eenvoudiger en beter afgestemd concept.  
+
+De inzichten uit test 2 tonen aan dat implementatie haalbaar is, mits enkele aanpassingen worden doorgevoerd. Een tweede projector, gemonteerd aan het plafond, kan zowel bakjes als compartimenten voor toedientijdstippen aanduiden, wat het concept flexibeler maakt. Daarnaast kan een feedbacksysteem met kleurprojectie (groen/rood) de gebruikservaring verder verbeteren, mits het systeem wordt uitgerust met een geïntegreerde camera om de plaatsing van de zakjes te controleren.  
+
+Deze aanpassingen zorgen ervoor dat het concept beter aansluit bij de behoeften en werkwijzen in WZC’s.
+
 
 ## Bill of materials
 - Welk

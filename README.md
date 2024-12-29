@@ -7,7 +7,8 @@ Datum  17/01/2025
 
 ## Samenvatting
 
-- Hero sketch/render/image)
+![IMG_0579](https://github.com/user-attachments/assets/ef4ac21a-f390-4071-8f2d-7a8a31f30769)
+
 
   > [!NOTE]
 > - Links naar volledige protocollen en reports zijn te vinden onder de bijlagen (**klikbare link maken naar hoofdstukje bijlagen**).
@@ -81,7 +82,10 @@ Vervolgens begint de voorbereiding: de zakjes worden handmatig verdeeld over de 
 
 Op de geplande tijdstippen wordt de medicijnkar naar de bewoners gereden om de medicatie toe te dienen. Tijdens de toediening wordt een laatste controle uitgevoerd met behulp van een tablet.
 
-![image](https://github.com/user-attachments/assets/c7c58312-9b7a-4bdd-bf65-a3381dbf65bc)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/c7c58312-9b7a-4bdd-bf65-a3381dbf65bc" width="50%">
+</div>
+
 
 (2) > "Het is voornamelijk het voorbereiden van de medicatie die vaak lang duurt."
 
@@ -162,7 +166,10 @@ Tot een conceptueel ontwerp komen m.b.v.  _quick-and-dirty_ prototypes
 ### Wave 1
 In de eerste wave is het de bedoeling om te achterhalen of de conceptuele werking die we in ons hoofd hebben, een goede werking is. Als eerst hebben we de omgeving nagemaakt om d.m.v. een rollplay beter inzicht te krijgen in het voorbereiden van de medicatie. De opstelling zoals hieronder te zien representeert een medicijnkar met de bakjes waarin de medicatie moet komen (op deze kar ligt het eerste prototype, dit mag je negeren).
 
-![Afbeelding van WhatsApp op 2024-12-28 om 17 47 29_0d98a9ca](https://github.com/user-attachments/assets/b2ecc2be-5ea1-41b3-ac69-c5f7cc917d90)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/b2ecc2be-5ea1-41b3-ac69-c5f7cc917d90" width="50%">
+</div>
+
 
 #### Prototype
 Na brainstormen is het concept voor het eerste protoype vastgelegd. Zoals hieronder te zien, beschrijft prototype 1 een dockingsysteem waarbij de medicatiekar gedeeltelijk wordt ingereden. In dit dock bevindt zich een dispenser waarin een medicijnrol geplaatst kan worden.
@@ -202,16 +209,20 @@ Na de grote pivot in wave 1 is het in deze fase belangrijk om eerst te verifiër
 #### Prototype
 Het tweede prototype bestaat uit een scanner en een projector. De scanner heeft 2 verschillende variaties, rechts en in het midden te zien op onderstaande afbeelding en de projector is links op de figuur te zien.
  
-![image](https://github.com/user-attachments/assets/5f389de4-d7ed-4317-bb0e-7e394cee2486)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/5f389de4-d7ed-4317-bb0e-7e394cee2486">
+</div>
 
-**##### Scanner**
+##### Scanner
 Voor deze test is een traditionele supermarkt-scanner in klei nagemaakt (rechts in bovenstaande figuur) om medicatiezakjes te scannen.
 In het midden van bovenstaande figuur staat een kleimodel van een borstscanner, bedoeld om handsfree scannen mogelijk te maken. Zoals getoond in onderstaande figuur, wordt deze scanner op de borst van de verpleegkundige bevestigd.
 De borstscanner is gevuld om het gewicht en gebruik realistischer te maken. Hierdoor kan getest worden of de scanner bijvoorbeeld niet losraakt of hinderlijk is tijdens bewegingen.
  
-![image](https://github.com/user-attachments/assets/60b47d77-f1d7-43cd-acf5-a31fedddad4c)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/60b47d77-f1d7-43cd-acf5-a31fedddad4c">
+</div>
 
-**##### Projector**
+##### Projector
 Links op de eerste afbeelding stelt het prototype een projector voor, waarbij na het scannen mee op de medicijnkar geprojecteerd zal worden om de plaats van het gescande zakje aan te geven.
 Het is de bedoeling dat deze tegen de muur gemonteerd wordt om horizontaal op de schuiven van de kar te kunnen projecteren. Het prototype is voorzien van een lampje en een knop om het lampje aan te zetten om de interactie meer realistisch te maken.
 

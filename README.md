@@ -137,10 +137,6 @@ Vervolgens werden de geraadpleegde bronnen geanalyseerd en beoordeeld o.b.v. voo
 | **Con’s**            | Beperkt in foutcontrole en geen automatisering                                                        | Hoge kosten, vereiste technische kennis, grote verandering in systeem                                         | Minder geschikt voor gebruik op schaal in groepszorg                                          | Extern systeem                                                                                |
 | **Relevantie**       | Basis om een slim systeem op te plaatsen, en laagdrempelig te implementeren met extra technologie voor foutcontrole en gebruikersinterface | Inspiratie voor foutcontrole, en visualisatieschermen die informatie over bewoners en medicatie weergeven     | Kan als inspiratie dienen voor automatische dosering per bakje, eventueel gekoppeld aan een slim scherm dat medicatie-informatie toont | Dit is een globaal systeem dat zo goed als overal wordt toegepast                             |
 
-
-Samengevat bieden de bestaande technologieën voordelen, maar er is ruimte voor verbetering. Standaard medicatiekarren bieden stabiliteit en gemak, maar missen automatisering en vereisen veel handmatig werk. Slimme medicatiekarren en geautomatiseerde kasten verbeteren efficiëntie en veiligheid, maar missen vaak integratie met bestaande werkstromen. Thuiszorgsystemen zoals automatische pilverdelers ontbreken sociaal contact. Systemen die die bijdragen aan de bestaande werking is hierbij een nuttig concept.
-
-
 ### Conclusie
 Uit de benchmarking en interviews blijkt dat het medicatieverdeelproces in woonzorgcentra aanzienlijke uitdagingen kent, zoals tijdsintensieve handelingen, frustraties en fouten. Bestaande technologieën zoals medicatiekarren bieden stabiliteit, maar missen automatisering. Slimme medicatiekarren en automatische dispensers verbeteren foutreductie en efficiëntie, maar integreren vaak niet goed met bestaande systemen en workflows.
 
@@ -221,8 +217,9 @@ In het midden van bovenstaande figuur staat een kleimodel van een borstscanner, 
 De borstscanner is gevuld om het gewicht en gebruik realistischer te maken. Hierdoor kan getest worden of de scanner bijvoorbeeld niet losraakt of hinderlijk is tijdens bewegingen.
  
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/60b47d77-f1d7-43cd-acf5-a31fedddad4c">
+  <img src="https://github.com/user-attachments/assets/9d90fea1-d8ca-4b1c-b9a3-30006b2b6354" width="50%">
 </div>
+
 
 ##### Projector
 Links op de eerste afbeelding stelt het prototype een projector voor, waarbij na het scannen mee op de medicijnkar geprojecteerd zal worden om de plaats van het gescande zakje aan te geven.
@@ -248,15 +245,23 @@ Deze aanpassingen zorgen ervoor dat het concept beter aansluit bij de behoeften 
 
 
 ## Bill of materials
-- Welk
-- Materiaal
-- Heb
-- Je
-- Nu
-- Nodig
-- Voor
-- Je
-- Prototype
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/ef4ac21a-f390-4071-8f2d-7a8a31f30769" width="50%">
+</div>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/362ca6ff-acfa-471c-ab5a-c2fea9634293" height="300px">
+  <img src="https://github.com/user-attachments/assets/440e40a9-345b-4afd-aedd-e05e3b5558f3" height="300px">
+</div>
+
+Volgende componenten zijn volgens het concept voldoende om 1 scanner en 1 projector te maken. Opmerkelijk hierbij is dat er wel 2 projectors nodig zijn. Dit is bewust gedaan om de kost van het prototype zo laag mogelijk te houden.
+
+- Raspberry Pi
+- Raspberry pi camera
+- Dualmode drukknop
+- Lasers (rood en groen)
+- Arduino
+- Servomotoren 2 stuks
+- Basiscomponenten zoals bekabeling, batterijen, 3D-geprinte onderdelen,...
 
 ## Kritische reflectie
 Max. 500 woorden

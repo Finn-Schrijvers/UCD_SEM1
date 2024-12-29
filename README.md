@@ -7,7 +7,9 @@ Datum  17/01/2025
 
 ## Samenvatting
 
-![IMG_0579](https://github.com/user-attachments/assets/ef4ac21a-f390-4071-8f2d-7a8a31f30769)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/ef4ac21a-f390-4071-8f2d-7a8a31f30769" width="50%">
+</div>
 
 
   > [!NOTE]

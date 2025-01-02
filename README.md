@@ -257,6 +257,7 @@ Volgende componenten zijn volgens het concept voldoende om 1 scanner en 1 projec
 
 - Raspberry Pi
 - Raspberry pi camera
+- Drukknop
 - Dualmode drukknop
 - Lasers (rood en groen)
 - Arduino

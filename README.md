@@ -226,7 +226,7 @@ Links op de eerste afbeelding stelt het prototype een projector voor, waarbij na
 Het is de bedoeling dat deze tegen de muur gemonteerd wordt om horizontaal op de schuiven van de kar te kunnen projecteren. Het prototype is voorzien van een lampje en een knop om het lampje aan te zetten om de interactie meer realistisch te maken.
 
 #### Resultaten
-Uit deze tweede test valt er te concluderen dat het huidige prototype wel implementeerbaar is mits enkele aanpassingen. 
+Uit deze tweede test valt er te concluderen dat het prototype van de handscanner en projector wel implementeerbaar is mits enkele aanpassingen. De draagbare borstscanner werd meteen uitgesloten omdat het niet toegelaten is binnen WZC om dergelijke zaken op de kledij te dragen.
 
 Een tweede projector, gemonteerd aan het plafond, zou zowel het bakje als het compartiment binnen dit bakje voor de toedientijdstippen kunnen aanduiden. Dit vergroot de toepasbaarheid van het concept, vooral bij medicijnkarren met schuiven waarbij de bakjes pas zichtbaar worden na het openen van een lade.
 Daarnaast kan projectie in twee verschillende kleuren (groen en rood) dienen als feedbacksysteem: groen voor correct geplaatste zakjes en rood voor fout geplaatste zakjes. Om dit mogelijk te maken, moet het systeem herkennen in welk compartiment het zakje is geplaatst. Dit kan worden gerealiseerd door een geïntegreerde, getrainde camera in de projectoren.
@@ -234,7 +234,7 @@ Daarnaast kan projectie in twee verschillende kleuren (groen en rood) dienen als
 > [!IMPORTANT]
 > Design Requirements:
 > - Moet capabel zijn om het compartiment voor toedieningstijdsstip van het medicatiebakje aan te duiden
-> - Er moet een vorm van Feedback zijn -> zakje juist geplaatst ja of nee?
+> - Er moet een vorm van feedback zijn -> zakje juist geplaatst ja of nee?
 
 ### Conclusies & implicaties
 Het oorspronkelijke prototype uit test 1 is niet geschikt voor implementatie in zijn huidige vorm, vooral vanwege de complexiteit, omvang en het gebrek aan flexibiliteit om verschillende werkmethoden binnen WZC te ondersteunen. Dit heeft geleid tot de noodzaak voor een pivot naar een eenvoudiger en beter afgestemd concept.  

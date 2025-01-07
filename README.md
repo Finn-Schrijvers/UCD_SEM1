@@ -316,14 +316,14 @@ Max. 500 woorden
 - Definition
   - Testing
     - Wave 1
-          - https://ugentbe-my.sharepoint.com/:w:/r/personal/finn_schrijvers_ugent_be/Documents/Gebruiksgericht/WAVE%201/Testing%20protocol%20WAVE1.docx?d=w3b7c8de31d3f4563b06cfd0af58341d2&csf=1&web=1&e=V1jw9a
-          - https://ugentbe-my.sharepoint.com/:w:/r/personal/finn_schrijvers_ugent_be/Documents/Gebruiksgericht/WAVE%201/Testing%20report%20WAVE%201.docx?d=wc74c40cac1e54a6c8793ce94ca2871f9&csf=1&web=1&e=nZ065x
+      - Protocol:  https://ugentbe-my.sharepoint.com/:w:/r/personal/finn_schrijvers_ugent_be/Documents/Gebruiksgericht/WAVE%201/Testing%20protocol%20WAVE1.docx?d=w3b7c8de31d3f4563b06cfd0af58341d2&csf=1&web=1&e=V1jw9a
+      - Report:    https://ugentbe-my.sharepoint.com/:w:/r/personal/finn_schrijvers_ugent_be/Documents/Gebruiksgericht/WAVE%201/Testing%20report%20WAVE%201.docx?d=wc74c40cac1e54a6c8793ce94ca2871f9&csf=1&web=1&e=nZ065x
     - Wave 2
-          - https://ugentbe-my.sharepoint.com/:w:/r/personal/finn_schrijvers_ugent_be/Documents/Gebruiksgericht/WAVE%202/Testing%20protocol%20WAVE%202.docx?d=w26fee3c348404a939a03e8cec04b7c21&csf=1&web=1&e=n667sP
-          - https://ugentbe-my.sharepoint.com/:w:/r/personal/finn_schrijvers_ugent_be/Documents/Gebruiksgericht/WAVE%202/Testing%20report%20WAVE%202.docx?d=w04bddf93de244da8b173f20e97f99bb6&csf=1&web=1&e=ZRHxpe
+      - Protocol:  https://ugentbe-my.sharepoint.com/:w:/r/personal/finn_schrijvers_ugent_be/Documents/Gebruiksgericht/WAVE%202/Testing%20protocol%20WAVE%202.docx?d=w26fee3c348404a939a03e8cec04b7c21&csf=1&web=1&e=n667sP
+      - Report:    https://ugentbe-my.sharepoint.com/:w:/r/personal/finn_schrijvers_ugent_be/Documents/Gebruiksgericht/WAVE%202/Testing%20report%20WAVE%202.docx?d=w04bddf93de244da8b173f20e97f99bb6&csf=1&web=1&e=ZRHxpe
     - Wave 3
-          - https://ugentbe-my.sharepoint.com/:w:/r/personal/finn_schrijvers_ugent_be/Documents/Gebruiksgericht/WAVE%203/Testing%20protocol%20WAVE%203.docx?d=w002937f2e4d64486a5eca4ded653fda4&csf=1&web=1&e=N9RhcN
-          - https://ugentbe-my.sharepoint.com/:w:/r/personal/finn_schrijvers_ugent_be/Documents/Gebruiksgericht/WAVE%203/Testing%20report%20WAVE%203.docx?d=w3af82529caed4f46b8211b06139907d2&csf=1&web=1&e=hsep6W
+      - Protocol:  https://ugentbe-my.sharepoint.com/:w:/r/personal/finn_schrijvers_ugent_be/Documents/Gebruiksgericht/WAVE%203/Testing%20protocol%20WAVE%203.docx?d=w002937f2e4d64486a5eca4ded653fda4&csf=1&web=1&e=N9RhcN
+      - Report:    https://ugentbe-my.sharepoint.com/:w:/r/personal/finn_schrijvers_ugent_be/Documents/Gebruiksgericht/WAVE%203/Testing%20report%20WAVE%203.docx?d=w3af82529caed4f46b8211b06139907d2&csf=1&web=1&e=hsep6W
 - Develop
     - to be continued...
     - 

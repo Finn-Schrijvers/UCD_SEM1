@@ -236,10 +236,50 @@ Daarnaast kan projectie in twee verschillende kleuren (groen en rood) dienen als
 > - Moet capabel zijn om het compartiment voor toedieningstijdsstip van het medicatiebakje aan te duiden
 > - Er moet een vorm van feedback zijn -> zakje juist geplaatst ja of nee?
 
+
+### Wave 3
+Uit wave 2 is er nood aan controle en feedback na het verdelen van de medicatie tijdens elke stap de foutgevoeligheid van de mens te verlagen. Bij het toedienen van de medicatie wordt er veranderstelt dat de voorgaande controles correct zijn voor gebruik. Echter kan er nadien nog altijd menselijke fouten gemaakt worden.
+
+#### Prototype
+Het derde prototype bestaat uit een methode om bewoners met de juiste medicatie te verbinden.
+
+##### Armband
+Om de juiste bewoner te kunnen koppelen met de medicatie die op dat moment van toepassing is er een armband dat gebaseerd is op een huidige systeem van een ziekhuis. https://www.uzleuven.be/nl/raadpleging-en-opname/kwaliteit-en-veiligheid/patientenidentificatie/identificatiebandje . Hierbij wordt de persoon intern gekoppeld aan een kamernummer waarbij het systeem weet wie de inwoner is. 
+
+<div align="center">
+  <img src="![image](https://github.com/user-attachments/assets/fceeee21-b496-46d7-9991-3f07e4f90693)
+" width="50%">
+</div>
+
+
+##### Paper prototype met barcodes
+Een papieren versie van de lay-out van de eetzaal gecombineerd met stickers in de kamers vormt, zoals bij de armband, een connectie tussen de bewoner en de juiste medicatie. Het prototype wordt meegenomen met de kar die samen met de scanner en een tablet verbonden via de cloud één geheeld vormt.
+
+<div align="center">
+  <img src="![image](https://github.com/user-attachments/assets/b98ee84f-3bc1-45f5-bee8-953ce49d0985)
+" width="50%">
+</div>
+
+
+#### Resultaten
+Uit deze derde test valt er te concluderen dat naast het verdelen ook de controle mogelijk is via een handscanner dat samen werkt met een slimme camera en een programma mits de nodige aanpassingen. Het dragen van een armband is niet in conform met de richtlijnen van WZC Van Lierde en mogelijk andere woonzorgcentra. Hierdoor is het prototype met de arband uitgesloten.
+
+![image](![image](https://github.com/user-attachments/assets/862984b9-2ed9-4f5a-a57a-d566d354627a)) ![image](![image](https://github.com/user-attachments/assets/9621035c-9284-4976-98f2-4ecc7ec70d73))
+
+Bij het controleren van de medicatie zijn er 2 verschillen ofwel 2 fasen. Tijdens de eerste fase heb je in de nacht de hoofdverpleger die 1 maal controleert en tijdens de dag een andere hoofdverpleger die nogmaals conrtoleert via een programma op de computer. Hier blijft de medicatie op één plek. In fase 2 gaat de hoofdverpleger of zorgkundige de medicatie controleren via een tablet.
+
+> [!IMPORTANT]
+> Design Requirements:
+> - De scanner bezit een feedbackmethode om in verschillende stappen aan te duiden welke status de scan betreft. (goed, fout, handmatig, ...)
+> - Het concept moet kunnen omgaan met bewoners die speciale medicatie nemen die niet worden meegegeven in zakjes.
+> - De bewoners mogen, door regelgeving, geen draagbare identificatie bezitten. 
+
 ### Conclusies & implicaties
 Het oorspronkelijke prototype uit test 1 is niet geschikt voor implementatie in zijn huidige vorm, vooral vanwege de complexiteit, omvang en het gebrek aan flexibiliteit om verschillende werkmethoden binnen WZC te ondersteunen. Dit heeft geleid tot de noodzaak voor een pivot naar een eenvoudiger en beter afgestemd concept.  
 
-De inzichten uit test 2 tonen aan dat implementatie haalbaar is, mits enkele aanpassingen worden doorgevoerd. Een tweede projector, gemonteerd aan het plafond, kan zowel bakjes als compartimenten voor toedientijdstippen aanduiden, wat het concept flexibeler maakt. Daarnaast kan een feedbacksysteem met kleurprojectie (groen/rood) de gebruikservaring verder verbeteren, mits het systeem wordt uitgerust met een geïntegreerde camera om de plaatsing van de zakjes te controleren.  
+De inzichten uit test 2 tonen aan dat implementatie haalbaar is, mits enkele aanpassingen worden doorgevoerd. Een tweede projector, gemonteerd aan het plafond, kan zowel bakjes als compartimenten voor toedientijdstippen aanduiden, wat het concept flexibeler maakt. Daarnaast kan een feedbacksysteem met kleurprojectie (groen/rood) de gebruikservaring verder verbeteren, mits het systeem wordt uitgerust met een geïntegreerde camera om de plaatsing van de zakjes te controleren. 
+
+Om de nodige controle van de medicatie uit test 3 te waarborgen zal de scanner extra functies nodig hebben met de nodige feedback naar de gebruiker toe. Het programma is een uitbreiding op implmentatie van test 2 waarbij papieren zorgen voor de connectie tussen bewoner en juiste medicatie.
 
 Deze aanpassingen zorgen ervoor dat het concept beter aansluit bij de behoeften en werkwijzen in WZC’s.
 
@@ -278,14 +318,14 @@ Max. 500 woorden
 - Definition
   - Testing
     - Wave 1
-          - [protocol]
-          - [report]
+          - https://ugentbe-my.sharepoint.com/:w:/r/personal/finn_schrijvers_ugent_be/Documents/Gebruiksgericht/WAVE%201/Testing%20protocol%20WAVE1.docx?d=w3b7c8de31d3f4563b06cfd0af58341d2&csf=1&web=1&e=V1jw9a
+          - https://ugentbe-my.sharepoint.com/:w:/r/personal/finn_schrijvers_ugent_be/Documents/Gebruiksgericht/WAVE%201/Testing%20report%20WAVE%201.docx?d=wc74c40cac1e54a6c8793ce94ca2871f9&csf=1&web=1&e=nZ065x
     - Wave 2
-          - [protocol]
-          - [report]
+          - https://ugentbe-my.sharepoint.com/:w:/r/personal/finn_schrijvers_ugent_be/Documents/Gebruiksgericht/WAVE%202/Testing%20protocol%20WAVE%202.docx?d=w26fee3c348404a939a03e8cec04b7c21&csf=1&web=1&e=n667sP
+          - https://ugentbe-my.sharepoint.com/:w:/r/personal/finn_schrijvers_ugent_be/Documents/Gebruiksgericht/WAVE%202/Testing%20report%20WAVE%202.docx?d=w04bddf93de244da8b173f20e97f99bb6&csf=1&web=1&e=ZRHxpe
     - Wave 3
-          - [protocol]
-          - [report]
+          - https://ugentbe-my.sharepoint.com/:w:/r/personal/finn_schrijvers_ugent_be/Documents/Gebruiksgericht/WAVE%203/Testing%20protocol%20WAVE%203.docx?d=w002937f2e4d64486a5eca4ded653fda4&csf=1&web=1&e=N9RhcN
+          - https://ugentbe-my.sharepoint.com/:w:/r/personal/finn_schrijvers_ugent_be/Documents/Gebruiksgericht/WAVE%203/Testing%20report%20WAVE%203.docx?d=w3af82529caed4f46b8211b06139907d2&csf=1&web=1&e=hsep6W
 - Develop
     - to be continued...
     - 

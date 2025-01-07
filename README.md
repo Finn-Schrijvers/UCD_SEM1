@@ -264,7 +264,7 @@ Uit deze derde test valt er te concluderen dat naast het verdelen ook de control
 
 ![image](https://github.com/user-attachments/assets/862984b9-2ed9-4f5a-a57a-d566d354627a) ![image](https://github.com/user-attachments/assets/9621035c-9284-4976-98f2-4ecc7ec70d73)
 
-Bij het controleren van de medicatie zijn er 2 verschillen ofwel 2 fasen. Tijdens de eerste fase heb je in de nacht de hoofdverpleger die 1 maal controleert en tijdens de dag een andere hoofdverpleger die nogmaals conrtoleert via een programma op de computer. Hier blijft de medicatie op één plek. In fase 2 gaat de hoofdverpleger of zorgkundige de medicatie controleren via een tablet.
+Bij het controleren van de medicatie zijn er 2 verschillen ofwel 2 fasen. Tijdens de eerste fase heb je in de nacht de hoofdverpleger die 1 maal controleert en tijdens de dag een andere hoofdverpleger die nogmaals conrtoleert via een programma op de computer. Hier blijft de medicatie op één plek. In fase 2 gaat de hoofdverpleger of zorgkundige de medicatie controleren via een tablet. Hierdoor is er nood aan feedback op de scanner die de huidige status toont.
 
 > [!IMPORTANT]
 > Design Requirements:

@@ -247,8 +247,7 @@ Het derde prototype bestaat uit een methode om bewoners met de juiste medicatie 
 Om de juiste bewoner te kunnen koppelen met de medicatie die op dat moment van toepassing is er een armband dat gebaseerd is op een huidige systeem van een ziekhuis. https://www.uzleuven.be/nl/raadpleging-en-opname/kwaliteit-en-veiligheid/patientenidentificatie/identificatiebandje . Hierbij wordt de persoon intern gekoppeld aan een kamernummer waarbij het systeem weet wie de inwoner is. 
 
 <div align="center">
-  <img src="![image](https://github.com/user-attachments/assets/fceeee21-b496-46d7-9991-3f07e4f90693)
-" width="50%">
+  <img src="https://github.com/user-attachments/assets/fceeee21-b496-46d7-9991-3f07e4f90693" width="50%">
 </div>
 
 
@@ -256,15 +255,14 @@ Om de juiste bewoner te kunnen koppelen met de medicatie die op dat moment van t
 Een papieren versie van de lay-out van de eetzaal gecombineerd met stickers in de kamers vormt, zoals bij de armband, een connectie tussen de bewoner en de juiste medicatie. Het prototype wordt meegenomen met de kar die samen met de scanner en een tablet verbonden via de cloud één geheeld vormt.
 
 <div align="center">
-  <img src="![image](https://github.com/user-attachments/assets/b98ee84f-3bc1-45f5-bee8-953ce49d0985)
-" width="50%">
+  <img src="https://github.com/user-attachments/assets/b98ee84f-3bc1-45f5-bee8-953ce49d0985" width="50%">
 </div>
 
 
 #### Resultaten
 Uit deze derde test valt er te concluderen dat naast het verdelen ook de controle mogelijk is via een handscanner dat samen werkt met een slimme camera en een programma mits de nodige aanpassingen. Het dragen van een armband is niet in conform met de richtlijnen van WZC Van Lierde en mogelijk andere woonzorgcentra. Hierdoor is het prototype met de arband uitgesloten.
 
-![image](![image](https://github.com/user-attachments/assets/862984b9-2ed9-4f5a-a57a-d566d354627a)) ![image](![image](https://github.com/user-attachments/assets/9621035c-9284-4976-98f2-4ecc7ec70d73))
+![image](https://github.com/user-attachments/assets/862984b9-2ed9-4f5a-a57a-d566d354627a) ![image](https://github.com/user-attachments/assets/9621035c-9284-4976-98f2-4ecc7ec70d73)
 
 Bij het controleren van de medicatie zijn er 2 verschillen ofwel 2 fasen. Tijdens de eerste fase heb je in de nacht de hoofdverpleger die 1 maal controleert en tijdens de dag een andere hoofdverpleger die nogmaals conrtoleert via een programma op de computer. Hier blijft de medicatie op één plek. In fase 2 gaat de hoofdverpleger of zorgkundige de medicatie controleren via een tablet.
 

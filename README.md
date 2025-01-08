@@ -1,7 +1,7 @@
 # Mediflow
 Een scan- en projectiesysteem dat de medicatievoorbereiding vereenvoudigt door visueel aan te geven waar medicatie moet worden geplaatst, met bijkomende controle.
 
-Projectteam: Finn Schrijvers, (Jento Van Latem) 
+Projectteam: Finn Schrijvers, Jento Van Laethem
 
 Datum  17/01/2025
 
@@ -31,15 +31,15 @@ De voorbereiding van medicatie is een cruciaal maar tijdrovend onderdeel van het
 Het doel van dit project is het ontwikkelen van een verbetering die de efficiëntie en nauwkeurigheid van **medicatievoorbereiding** verbetert, zonder dat er een compleet nieuw systeem geïmplementeerd hoeft te worden. De oplossing moet betaalbaar, snel, eenvoudig te integreren, en gebruiksvriendelijk zijn. 
 Randvoorwaarden:
 
-- betaalbaar
-- snel
-- eenvoudig te integreren
-- gebruiksvtiendelijk
+- Betaalbaar
+- Snel
+- Eenvoudig te integreren
+- Gebruiksvriendelijk
 
   
 ## Methodologie
 
-Als eerst werd de opdracht verkend: Wat is het doel van de opdracht? Is het gestelde probleem ook daadwerkelijk een probleem, en vooral, kan dit probleem gekoppeld worden aan bestaande oplossingen? Deze opdracht startte met het verkennen van de designchallange Werkbaar Werk in de Zorg met de bijhorende noden en behoeften. [^2]
+Als eerst werd de opdracht verkend: Wat is het doel van de opdracht? Is het gestelde probleem ook daadwerkelijk een probleem, en vooral, kan dit probleem gekoppeld worden aan bestaande oplossingen? Deze opdracht startte met het verkennen van de designchallenge Werkbaar Werk in de Zorg met de bijhorende noden en behoeften. [^2]
 Tijdens de ontdekkingsfase onderzochten we hoe gebruikers, die dagelijks met het probleem te maken hebben, het probleem ervaren en welke oplossingen zij zelf voor ogen hebben. De user interviews bevestigden het probleem duidelijk. Uit benchmarking blijkt dat er al diverse oplossingen bestaan om de medicatievoorbereiding te vereenvoudigen. Echter, deze oplossingen hebben vaak belangrijke tekortkomingen, zoals hoge kosten, complexiteit of een gebrek aan gebruiksvriendelijkheid. Door deze zwakke punten te analyseren, konden we kansen identificeren om verbeteringen aan te brengen. Op basis van deze inzichten kan een eerste concept ontwikkeld worden dat zich binnen de oplossingsruimte bevindt.
 
 In de definitiefase verdiepen we ons grondig in het probleem, volgens het principe "fall in love with the problem, not the solution." Tijdens deze fase worden de eerste prototypes ontwikkeld en testen we zo snel mogelijk of het concept levensvatbaar is voor verdere verfijning. Dit gebeurt in een vroege concepttest met verpleegkundigen in een WZC. De ontvangen feedback gebruiken we om het ontwerp aan te passen en verder te verbeteren.  
@@ -145,7 +145,7 @@ Interviews benadrukken dat handmatige medicatievoorbereiding het meest tijdroven
 > [!IMPORTANT]
 > Design Requirements:
 > - Inspelen op medicatievoorbereiding 
-> - Tijdsbesparend
+> - Tijdbesparend
 > - Integratie in bestaande workflow
 > - Mag contact tussen verpleegkundige en bewoner niet verstoren
 > - Moet toegankelijk zijn voor verschillende mensen
@@ -162,7 +162,7 @@ Tot een conceptueel ontwerp komen m.b.v.  _quick-and-dirty_ prototypes
 - gebruikerstesten
 
 ### Wave 1
-In de eerste wave is het de bedoeling om te achterhalen of de conceptuele werking die we in ons hoofd hebben, een goede werking is. Als eerst hebben we de omgeving nagemaakt om d.m.v. een rollplay beter inzicht te krijgen in het voorbereiden van de medicatie. De opstelling zoals hieronder te zien representeert een medicijnkar met de bakjes waarin de medicatie moet komen (op deze kar ligt het eerste prototype, dit mag je negeren).
+In de eerste wave is het de bedoeling om te achterhalen of de conceptuele werking die we in ons hoofd hebben, een goede werking is. Als eerst hebben we de omgeving nagemaakt om d.m.v. roleplay beter inzicht te krijgen in het voorbereiden van de medicatie. De opstelling zoals hieronder te zien representeert een medicijnkar met de bakjes waarin de medicatie moet komen (op deze kar ligt het eerste prototype, dit mag je negeren).
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/b2ecc2be-5ea1-41b3-ac69-c5f7cc917d90" width="50%">
@@ -170,11 +170,11 @@ In de eerste wave is het de bedoeling om te achterhalen of de conceptuele werkin
 
 
 #### Prototype
-Na brainstormen is het concept voor het eerste protoype vastgelegd. Zoals hieronder te zien, beschrijft prototype 1 een dockingsysteem waarbij de medicatiekar gedeeltelijk wordt ingereden. In dit dock bevindt zich een dispenser waarin een medicijnrol geplaatst kan worden.
+Na brainstormen is het concept voor het eerste prototype vastgelegd. Zoals hieronder te zien, beschrijft prototype 1 een dockingsysteem waarbij de medicatiekar gedeeltelijk wordt ingereden. In dit dock bevindt zich een dispenser waarin een medicijnrol geplaatst kan worden.
 
   ![image](https://github.com/user-attachments/assets/0438129f-f481-40b4-afd8-0186e96bd285) ![image](https://github.com/user-attachments/assets/e7150856-0355-4097-954b-3c07215c2f35)
 
-De dispenser leest automatisch de gegevens op de medicatiezakjes, controleert de inhoud en plaatst ze in de juiste bakjes van de medicatiekar. Deze dispencer unitis meer gedetailleerd weergegeven op onderstaande afbeelding. De dispencer zal tot de juiste bakjes geraken d.m.v. core-XY bewegingen, die het in staat stelt om de zakjes in de juiste compartimenten te plaatsen.
+De dispenser leest automatisch de gegevens op de medicatiezakjes, controleert de inhoud en plaatst ze in de juiste bakjes van de medicatiekar. Deze dispencer unitis meer gedetailleerd weergegeven op onderstaande afbeelding. De dispencer zal tot de juiste bakjes geraken d.m.v. coreXY bewegingen, die het in staat stelt om de zakjes in de juiste compartimenten te plaatsen.
 
    ![image](https://github.com/user-attachments/assets/d621e00f-b8bd-4fd4-ab80-113c9b5ae8fa) ![image](https://github.com/user-attachments/assets/3dd0fd7a-a330-4dc6-b660-fa45c71c2f4d)
 
@@ -196,13 +196,13 @@ Er is een pivot nodig naar een ander concept om medicatievoorbereiding te optima
 
 > [!IMPORTANT]
 > Design Requirements:
-> - ontwerp moet beperkt zijn in grootte
-> - bruikbaar in WZC die verschillende werking hebben omtrent de medicijnrol
-> - ontwerp moet beperkt zijn in compexiteit
+> - Ontwerp moet beperkt zijn in grootte
+> - Bruikbaar in WZC die verschillende werking hebben omtrent de medicijnrol
+> - Ontwerp moet beperkt zijn in complexiteit
 
 
 ### Wave 2
-Na de grote pivot in wave 1 is het in deze fase belangrijk om eerst te verifiëren of het nieuwe concept bruikbaar is. We zijn tot een nieuw concept gekomen door te brainstormen, rekeninghoudend met de randvoorwaarden voortvloeiend uit wave 1.
+Na de grote pivot in wave 1 is het in deze fase belangrijk om eerst te verifiëren of het nieuwe concept bruikbaar is. We zijn tot een nieuw concept gekomen door te brainstormen, rekening houdend met de randvoorwaarden voortvloeiend uit wave 1.
 
 #### Prototype
 Het tweede prototype bestaat uit een scanner en een projector. De scanner heeft 2 verschillende variaties, rechts en in het midden te zien op onderstaande afbeelding en de projector is links op de figuur te zien.
@@ -243,6 +243,13 @@ Uit wave 2 is er nood aan controle en feedback na het verdelen van de medicatie 
 #### Prototype
 Het derde prototype bestaat uit een methode om bewoners met de juiste medicatie te verbinden.
 
+##### Scanner
+Bij het testen van onderstaande methoden, werd een scanner voorzien die, volgens feedback uit wave 2, kan worden neergezet in een dock. Dit zie je in Figuur 4 en 5. Deze dock is gelijkaardig aan ontwerpen van elektrische aparaten. De scanner is in deze test zorgt voor een realistische weergave en ondersteuning voor de andere prototypes. 
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/dfb1c586-b43f-452a-9c4a-4a4f38591cf0" width="50%">
+</div>
+
 ##### Armband
 Om de juiste bewoner te kunnen koppelen met de medicatie die op dat moment van toepassing is er een armband dat gebaseerd is op een huidige systeem van een ziekhuis. https://www.uzleuven.be/nl/raadpleging-en-opname/kwaliteit-en-veiligheid/patientenidentificatie/identificatiebandje . Hierbij wordt de persoon intern gekoppeld aan een kamernummer waarbij het systeem weet wie de inwoner is. 
 
@@ -260,11 +267,11 @@ Een papieren versie van de lay-out van de eetzaal gecombineerd met stickers in d
 
 
 #### Resultaten
-Uit deze derde test valt er te concluderen dat naast het verdelen ook de controle mogelijk is via een handscanner dat samen werkt met een slimme camera en een programma mits de nodige aanpassingen. Het dragen van een armband is niet in conform met de richtlijnen van WZC Van Lierde en mogelijk andere woonzorgcentra. Hierdoor is het prototype met de arband uitgesloten.
+Uit deze derde test valt er te concluderen dat naast het verdelen ook de controle mogelijk is via een handscanner dat samen werkt met een slimme camera en een programma mits de nodige aanpassingen. Het dragen van een armband is niet in conform met de richtlijnen van WZC Van Lierde en mogelijk andere woonzorgcentra. Hierdoor is het prototype met de armband uitgesloten.
 
 ![image](https://github.com/user-attachments/assets/862984b9-2ed9-4f5a-a57a-d566d354627a) ![image](https://github.com/user-attachments/assets/9621035c-9284-4976-98f2-4ecc7ec70d73)
 
-Bij het controleren van de medicatie zijn er 2 verschillen ofwel 2 fasen. Tijdens de eerste fase heb je in de nacht de hoofdverpleger die 1 maal controleert en tijdens de dag een andere hoofdverpleger die nogmaals conrtoleert via een programma op de computer. Hier blijft de medicatie op één plek. In fase 2 gaat de hoofdverpleger of zorgkundige de medicatie controleren via een tablet. Hierdoor is er nood aan feedback op de scanner die de huidige status toont.
+Bij het controleren van de medicatie zijn er 2 verschillen ofwel 2 fasen. Tijdens de eerste fase heb je in de nacht de hoofdverpleger die 1 maal controleert en tijdens de dag een andere hoofdverpleger die nogmaals controleert via een programma op de computer. Hier blijft de medicatie op één plek. In fase 2 gaat de hoofdverpleger of zorgkundige de medicatie controleren via een tablet. Hierdoor is er nood aan feedback op de scanner die de huidige status toont.
 
 > [!IMPORTANT]
 > Design Requirements:
@@ -277,7 +284,7 @@ Het oorspronkelijke prototype uit test 1 is niet geschikt voor implementatie in 
 
 De inzichten uit test 2 tonen aan dat implementatie haalbaar is, mits enkele aanpassingen worden doorgevoerd. Een tweede projector, gemonteerd aan het plafond, kan zowel bakjes als compartimenten voor toedientijdstippen aanduiden, wat het concept flexibeler maakt. Daarnaast kan een feedbacksysteem met kleurprojectie (groen/rood) de gebruikservaring verder verbeteren, mits het systeem wordt uitgerust met een geïntegreerde camera om de plaatsing van de zakjes te controleren. 
 
-Om de nodige controle van de medicatie uit test 3 te waarborgen zal de scanner extra functies nodig hebben met de nodige feedback naar de gebruiker toe. Het programma is een uitbreiding op implmentatie van test 2 waarbij papieren zorgen voor de connectie tussen bewoner en juiste medicatie.
+Om de nodige controle van de medicatie uit test 3 te waarborgen zal de scanner extra functies nodig hebben met de nodige feedback naar de gebruiker toe. Het programma is een uitbreiding op implementatie van test 2 waarbij papieren zorgen voor de connectie tussen bewoner en juiste medicatie.
 
 Deze aanpassingen zorgen ervoor dat het concept beter aansluit bij de behoeften en werkwijzen in WZC’s.
 
@@ -307,7 +314,7 @@ Max. 500 woorden
 
 ## Bijlagen
 - Discovery
-  - Intervieuw
+  - Interview
     - [protocol]
     - [report]
   - Benchmarking

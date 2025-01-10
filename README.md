@@ -350,11 +350,11 @@ Het Mediflow-project is een waardevolle stap richting efficiëntere en veiligere
 ## Bijlagen
 - Discovery
   - Interview
-    - [protocol]
-    - [report]
+    - Protocol:https://ugentbe-my.sharepoint.com/:b:/g/personal/finn_schrijvers_ugent_be/EcoTthYsxGFJtN3jjUL699IBEEbDjl1ifWImxwv9pCJupw?e=jNeKJb
+    - Report: [https://ugentbe-my.sharepoint.com/:b:/r/personal/finn_schrijvers_ugent_be/Documents/Gebruiksgericht/Discovery/Interview%20verslag.pdf?csf=1&web=1&e=BVS1c4](https://ugentbe-my.sharepoint.com/:b:/g/personal/finn_schrijvers_ugent_be/EYRURUgyOh1CmjkWjf7noQgBPfOw-SUfmo8IBAGYPrBS1Q?e=0BX6WX)
   - Benchmarking
-    - [protocol]
-    - [report]
+    - Protocol:https://ugentbe-my.sharepoint.com/:b:/g/personal/finn_schrijvers_ugent_be/ESbbRborLb9OpKoyfDy2d1oB8pUYO5MkBOqB7pg_99yR1w?e=DWbjez
+    - Report:https://ugentbe-my.sharepoint.com/:b:/g/personal/finn_schrijvers_ugent_be/EeoSfp9atvNIgY3D2ixI-50B0GlwUGT-gPK8U4ewq5R8Mw?e=7Bx0sK
 - Definition
   - Testing
     - Wave 1

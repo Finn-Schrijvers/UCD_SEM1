@@ -282,11 +282,11 @@ Bij het controleren van de medicatie zijn er 2 verschillen ofwel 2 fasen. Tijden
 ### Conclusies & implicaties
 Het oorspronkelijke prototype uit test 1 is niet geschikt voor implementatie in zijn huidige vorm, vooral vanwege de complexiteit, omvang en het gebrek aan flexibiliteit om verschillende werkmethoden binnen WZC te ondersteunen. Dit heeft geleid tot de noodzaak voor een pivot naar een eenvoudiger en beter afgestemd concept.  
 
-De inzichten uit test 2 tonen aan dat implementatie haalbaar is, mits enkele aanpassingen worden doorgevoerd. Een tweede projector, gemonteerd aan het plafond, kan zowel bakjes als compartimenten voor toedientijdstippen aanduiden, wat het concept flexibeler maakt. Daarnaast kan een feedbacksysteem met kleurprojectie (groen/rood) de gebruikservaring verder verbeteren, mits het systeem wordt uitgerust met een geïntegreerde camera om de plaatsing van de zakjes te controleren. 
+De inzichten uit test 2 tonen aan dat implementatie haalbaar is, mits enkele aanpassingen worden doorgevoerd. Een tweede projector, gemonteerd aan het plafond, kan zowel bakjes als compartimenten voor toedientijdstippen aanduiden, wat het concept flexibeler maakt. Daarnaast kan een feedbacksysteem met kleurprojectie (groen/rood) de gebruikservaring verder verbeteren, mits het systeem wordt uitgerust met een geïntegreerde camera om de plaatsing van de zakjes te controleren. Dit is iets dat getest kon worden in een 3de wave.
 
-Om de nodige controle van de medicatie uit test 3 te waarborgen zal de scanner extra functies nodig hebben met de nodige feedback naar de gebruiker toe. Het programma is een uitbreiding op implementatie van test 2 waarbij papieren zorgen voor de connectie tussen bewoner en juiste medicatie.
+Wave 3 valt buiten de scope van dit project vanwege gebrekkige samenwerking en communicatie. Het project richt zich specifiek op medicatievoorbereiding, terwijl wave 3 zich bezighoudt met de effectieve toediening van medicatie. Bovendien staat wave 3 haaks op de gebruikersbehoeften die tijdens de discoveryfase van dit project zijn vastgesteld. Zo hebben verpleegkundigen aangegeven dat het behoud van menselijke controle essentieel is, iets waar prototype 3 niet aan voldoet.
 
-Deze aanpassingen zorgen ervoor dat het concept beter aansluit bij de behoeften en werkwijzen in WZC’s.
+Daarom wordt de focus voortgezet op prototype 2.
 
 
 ## Bill of materials
@@ -310,7 +310,42 @@ Volgende componenten zijn volgens het concept voldoende om 1 scanner en 1 projec
 - Basiscomponenten zoals bekabeling, batterijen, 3D-geprinte onderdelen,...
 
 ## Kritische reflectie
-Max. 500 woorden
+
+Het **Mediflow-project** heeft waardevolle inzichten opgeleverd in de uitdagingen rondom medicatievoorbereiding in woonzorgcentra en biedt een innovatieve oplossing om deze processen te optimaliseren. Desondanks zijn er enkele leerpunten die tijdens het proces naar voren kwamen en die van belang zijn voor toekomstige iteraties en projecten.
+
+### Sterke punten
+
+#### Gebruikersgerichte aanpak
+Bij de test van het eerste prototype bleek het van groot belang om te focussen op gebruiksgericht ontwerpen. Een complexe machine kan wel worden ontworpen, maar als de eindgebruiker er niet mee kan of wil werken, is het onbruikbaar.
+
+Door middel van interviews en gebruikerstesten is er een duidelijk beeld verkregen van de behoeften en frustraties van zorgverleners. Deze inzichten hebben ervoor gezorgd dat de oplossing goed aansluit bij de praktijk.
+
+#### Iteratieve methodologie
+Het proces was sterk iteratief, waarbij prototypes snel werden ontwikkeld, getest en aangepast, al dan niet met een conceptpivot. Dit heeft geleid tot een ontwerp dat steeds beter aansluit bij de werkelijke behoeften van de gebruikers.
+
+#### Focus op haalbaarheid bij implementatie
+De oplossing houdt rekening met integratie in bestaande workflows, wat de implementatie haalbaar en laagdrempelig maakt.
+
+### Zwakke punten
+
+#### Beperkte diversiteit in gebruikersinterviews
+Hoewel de interviews waardevolle informatie opleverden, was de steekproefgrootte beperkt (N=3). Een bredere groep respondenten had mogelijk meer diverse inzichten opgeleverd, bijvoorbeeld over variaties in workflows tussen verschillende woonzorgcentra.
+
+#### Technische haalbaarheid
+Hoewel het concept technisch interessant is, zijn er nog vragen over de haalbaarheid en betrouwbaarheid van het projectiesysteem in een drukke en soms chaotische zorgomgeving. Het risico van storingen of technische complicaties kan een belemmering vormen voor adoptie.
+
+#### Kostenanalyse
+Hoewel betaalbaarheid een randvoorwaarde is, is er nog geen uitgebreide kostenanalyse uitgevoerd. Dit is cruciaal om te bepalen of de oplossing financieel haalbaar is voor de meeste woonzorgcentra, die vaak met beperkte budgetten werken.
+
+### Leerpunten
+
+#### Slechte samenwerking
+Ondanks dat de technische en gebruikersgerichte aspecten zo goed mogelijk zijn uit gewerkt, had dit project veel verder kunnen geraken als er een betere samenwerking zou geweest zijn. Zo werden er afspraken niet nagekomen en zaken vaak niet, of van onvoldoende kwaliteit uitgevoerd door één van de teamgenoten.
+
+### Conclusie
+
+Het Mediflow-project is een waardevolle stap richting efficiëntere en veiligere medicatievoorbereiding in woonzorgcentra. Het project heeft sterke punten in zijn gebruikersgerichte en iteratieve aanpak, maar vraagt nog om verdieping op het gebied van technische haalbaarheid, kosten en langetermijnimplementatie. De opgedane inzichten bieden een solide basis voor verdere ontwikkeling en verfijning van het concept.
+
 
 ## Bijlagen
 - Discovery

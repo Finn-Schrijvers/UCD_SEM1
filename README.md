@@ -251,7 +251,7 @@ Bij het testen van onderstaande methoden, werd een scanner voorzien die, volgens
 </div>
 
 ##### Armband
-Om de juiste bewoner te kunnen koppelen met de medicatie die op dat moment van toepassing is er een armband dat gebaseerd is op een huidige systeem van een ziekhuis. https://www.uzleuven.be/nl/raadpleging-en-opname/kwaliteit-en-veiligheid/patientenidentificatie/identificatiebandje . Hierbij wordt de persoon intern gekoppeld aan een kamernummer waarbij het systeem weet wie de inwoner is. 
+Om de juiste bewoner te kunnen koppelen met de medicatie die op dat moment van toepassing is er een armband dat gebaseerd is op een huidige systeem van een ziekhuis.[^3] Hierbij wordt de persoon intern gekoppeld aan een kamernummer waarbij het systeem weet wie de inwoner is. 
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/fceeee21-b496-46d7-9991-3f07e4f90693" width="50%">
@@ -372,4 +372,4 @@ Het Mediflow-project is een waardevolle stap richting efficiëntere en veiligere
 ## Bronnen
 [^1]:[Hoge werkdruk in rusthuizen | Beswic. (n.d.). https://beswic.be/nl/blog/hoge-werkdruk-rusthuizen]
 [^2]:[Noden- en behoeftenanalyse van personeel in de zorg- en welzijnssectoren en maatwerkbedrijven. (z.j.). Ongepubliceerd document]
-[^3]:
+[^3]:[UZ Leuven. (z.d.). Identificatiebandje. Geraadpleegd op 10 januari 2025 van https://www.uzleuven.be/nl/raadpleging-en-opname/kwaliteit-en-veiligheid/patientenidentificatie/identificatiebandje]

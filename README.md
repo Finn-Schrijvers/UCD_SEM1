@@ -314,7 +314,6 @@ Volgende componenten zijn volgens het concept voldoende om 1 scanner en 1 projec
 Het **Mediflow-project** heeft waardevolle inzichten opgeleverd in de uitdagingen rondom medicatievoorbereiding in woonzorgcentra en biedt een innovatieve oplossing om deze processen te optimaliseren. Desondanks zijn er enkele leerpunten die tijdens het proces naar voren kwamen en die van belang zijn voor toekomstige iteraties en projecten.
 
 ### Sterke punten
-
 #### Gebruikersgerichte aanpak
 Bij de test van het eerste prototype bleek het van groot belang om te focussen op gebruiksgericht ontwerpen. Een complexe machine kan wel worden ontworpen, maar als de eindgebruiker er niet mee kan of wil werken, is het onbruikbaar.
 
@@ -326,8 +325,8 @@ Het proces was sterk iteratief, waarbij prototypes snel werden ontwikkeld, getes
 #### Focus op haalbaarheid bij implementatie
 De oplossing houdt rekening met integratie in bestaande workflows, wat de implementatie haalbaar en laagdrempelig maakt.
 
-### Zwakke punten
 
+### Zwakke punten
 #### Beperkte diversiteit in gebruikersinterviews
 Hoewel de interviews waardevolle informatie opleverden, was de steekproefgrootte beperkt (N=3). Een bredere groep respondenten had mogelijk meer diverse inzichten opgeleverd, bijvoorbeeld over variaties in workflows tussen verschillende woonzorgcentra.
 

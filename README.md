@@ -339,7 +339,7 @@ Hoewel betaalbaarheid een randvoorwaarde is, is er nog geen uitgebreide kostenan
 ### Leerpunten
 
 #### Slechte samenwerking
-Ondanks dat de technische en gebruikersgerichte aspecten zo goed mogelijk zijn uit gewerkt, had dit project veel verder kunnen geraken als er een betere samenwerking zou geweest zijn. Zo werden er afspraken niet nagekomen en zaken vaak niet, of van onvoldoende kwaliteit uitgevoerd door één van de teamgenoten.
+Ondanks dat de technische en gebruikersgerichte aspecten zo goed mogelijk zijn uit gewerkt, had dit project veel verder kunnen geraken als er een betere samenwerking zou geweest zijn. Zo werden er afspraken niet nagekomen en zaken vaak niet, of van onvoldoende kwaliteit uitgevoerd door één van de teamgenoten. Een vereenvoudigde takenverdeling is terug te vinden in [bijlagen](#bijlagen).
 
 ### Conclusie
 
@@ -347,6 +347,7 @@ Het Mediflow-project is een waardevolle stap richting efficiëntere en veiligere
 
 
 ## Bijlagen
+- Takenverdeling: https://ugentbe-my.sharepoint.com/:w:/r/personal/finn_schrijvers_ugent_be/Documents/Gebruiksgericht/Takenverdeling.docx?d=w5ec6dbe67c1f4606989a8b7d1c42f43c&csf=1&web=1&e=vEw5g2
 - Discovery
   - Interview
     - Protocol:https://ugentbe-my.sharepoint.com/:b:/g/personal/finn_schrijvers_ugent_be/EcoTthYsxGFJtN3jjUL699IBEEbDjl1ifWImxwv9pCJupw?e=jNeKJb
